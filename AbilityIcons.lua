@@ -259,9 +259,9 @@ local ABILITY_ICONS = {
     -- "ability_warden_002.dds",
     -- "ability_warden_002_a.dds",
     -- "ability_warden_002_b.dds",
-    -- "ability_warden_003.dds",
-    -- "ability_warden_003_a.dds",
-    -- "ability_warden_003_b.dds",
+    "ability_warden_003.dds", -- Arctic Wind - @M0R_Gaming
+    "ability_warden_003_a.dds",
+    "ability_warden_003_b.dds",
     -- "ability_warden_004.dds",
     -- "ability_warden_004_a.dds",
     -- "ability_warden_004_b.dds",
