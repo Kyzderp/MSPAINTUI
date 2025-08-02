@@ -2,7 +2,7 @@ MSPAINTUI = MSPAINTUI or {}
 local MSP = MSPAINTUI
 
 local ABILITY_ICONS = {
-    -- DK
+    -- Dragonknight - Ardent Flame
     -- "ability_dragonknight_001.dds",
     -- "ability_dragonknight_001_a.dds",
     -- "ability_dragonknight_001_b.dds",
@@ -21,6 +21,8 @@ local ABILITY_ICONS = {
     -- "ability_dragonknight_006.dds",
     -- "ability_dragonknight_006_a.dds",
     -- "ability_dragonknight_006_b.dds",
+
+    -- Dragonknight - Draconic Power
     -- "ability_dragonknight_007.dds",
     -- "ability_dragonknight_007_a.dds",
     -- "ability_dragonknight_007_b.dds",
@@ -39,9 +41,10 @@ local ABILITY_ICONS = {
     -- "ability_dragonknight_012.dds",
     -- "ability_dragonknight_012_a.dds",
     -- "ability_dragonknight_012_b.dds",
+
+    -- Dragonknight - Earthen Heart
     -- "ability_dragonknight_013.dds",
     -- "ability_dragonknight_013_a.dds",
-    -- "ability_dragonknight_013_a_stomp.dds",
     -- "ability_dragonknight_013_b.dds",
     -- "ability_dragonknight_014.dds",
     -- "ability_dragonknight_014_a.dds",
@@ -59,188 +62,197 @@ local ABILITY_ICONS = {
     -- "ability_dragonknight_018_a.dds",
     -- "ability_dragonknight_018_b.dds",
 
-    -- Sorcerer
-    -- "ability_sorcerer_ball_of_lightning.dds",
+    -- Sorcerer - Storm Calling
+    -- "ability_sorcerer_overload.dds",
+    -- "ability_sorcerer_power_overload.dds",
+    -- "ability_sorcerer_energy_overload.dds",
+    -- "ability_sorcerer_mage_fury.dds",
+    -- "ability_sorcerer_endless_fury.dds",
+    -- "ability_sorcerer_mage_wraith.dds",
+    -- "ability_sorcerer_lightning_form.dds",
+    -- "ability_sorcerer_boundless_storm.dds",
+    -- "ability_sorcerer_thundering_presence.dds", -- Hurricane
+    -- "ability_sorcerer_lightning_splash.dds",
+    -- "ability_sorcerer_lightning_flood.dds",
+    -- "ability_sorcerer_liquid_lightning.dds",
+    -- "ability_sorcerer_surge.dds",
+    -- "ability_sorcerer_critical_surge.dds",
+    -- "ability_sorcerer_power_surge.dds",
     -- "ability_sorcerer_bolt_escape.dds",
+    -- "ability_sorcerer_ball_of_lightning.dds",
+    -- "ability_sorcerer_streak.dds",
+
+    -- Sorcerer - Daedric Summoning
+    -- "ability_sorcerer_endless_atronachs.dds", -- Charged Atronach
+    -- "ability_sorcerer_storm_atronach.dds",
+    -- "ability_sorcerer_greater_storm_atronach.dds",
+    -- "ability_sorcerer_unstable_fimiliar.dds",
+    -- "ability_sorcerer_unstable_fimiliar_summoned.dds",
+    -- "ability_sorcerer_speedy_familiar.dds", -- Volatile
+    -- "ability_sorcerer_speedy_familiar_summoned.dds",
+    -- "ability_sorcerer_unstable_clannfear.dds",
+    -- "ability_sorcerer_unstable_clannfear_summoned.dds",
+    -- "ability_sorcerer_daedric_curse.dds",
+    -- "ability_sorcerer_explosive_curse.dds", -- Daedric Prey
+    -- "ability_sorcerer_velocious_curse.dds", -- Haunting Curse
+    -- "ability_sorcerer_lightning_matriarch.dds",
+    -- "ability_sorcerer_lightning_matriarch_summoned.dds",
+    -- "ability_sorcerer_lightning_prey.dds", -- Twilight
+    -- "ability_sorcerer_lightning_prey_summoned.dds",
+    -- "ability_sorcerer_storm_prey.dds", -- Matriarch
+    -- "ability_sorcerer_storm_prey_summoned.dds",
+    -- "ability_sorcerer_hurricane.dds", -- Conjured Ward
+    -- "ability_sorcerer_tempest.dds", -- Regenerative Ward
+    -- "ability_sorcerer_typhoon.dds", -- Hardened Ward
+    -- "ability_sorcerer_bound_armor.dds",
     -- "ability_sorcerer_bound_aegis.dds",
     -- "ability_sorcerer_bound_armaments.dds",
-    -- "ability_sorcerer_bound_armor.dds",
-    -- "ability_sorcerer_boundless_storm.dds",
-    -- "ability_sorcerer_critical_surge.dds",
-    -- "ability_sorcerer_crushing_monsoon.dds",
-    -- "ability_sorcerer_crushing_winds.dds",
+    -- "ability_sorcerer_bound_armaments_proc.dds",
+
+    -- Sorcerer - Dark Magic
+    -- "ability_sorcerer_monsoon.dds", -- Negate Magic
+    -- "ability_sorcerer_crushing_monsoon.dds", -- Suppression Field
+    -- "ability_sorcerer_rushing_winds.dds", -- Absorption Field
     -- "ability_sorcerer_crystalweapon.dds",
-    -- "ability_sorcerer_cyclone.dds",
-    -- "ability_sorcerer_daedric_curse.dds",
-    -- "ability_sorcerer_daedric_minefield.dds",
-    -- "ability_sorcerer_daedric_mines.dds",
-    -- "ability_sorcerer_daedric_tomb.dds",
+    -- "ability_sorcerer_thunder_burst.dds", -- unsure what this is, looks like base frags with more lightning
+    -- "ability_sorcerer_thunderclap.dds", -- Crystal Shard
+    -- "ability_sorcerer_thunderstomp.dds", -- Crystal Fragments
+    -- "ability_sorcerer_thunderstomp_proc.dds",
+    -- "ability_sorcerer_cyclone.dds", -- Encase
+    -- "ability_sorcerer_crushing_winds.dds", -- Vibrant Shroud
+    -- "ability_sorcerer_twister.dds", -- Shattering Spines
+    -- "ability_sorcerer_dark_fog.dds", -- Rune Prison
+    -- "ability_sorcerer_dark_haze.dds", -- Rune Cage
+    -- "ability_sorcerer_weakening_fog.dds", -- Defensive Rune
     -- "ability_sorcerer_dark_conversion.dds",
     -- "ability_sorcerer_dark_deal.dds",
     -- "ability_sorcerer_dark_exchange.dds",
-    -- "ability_sorcerer_dark_fog.dds",
-    -- "ability_sorcerer_dark_haze.dds",
-    -- "ability_sorcerer_endless_atronachs.dds",
-    -- "ability_sorcerer_endless_fury.dds",
-    -- "ability_sorcerer_energy_overload.dds",
-    -- "ability_sorcerer_explosive_curse.dds",
-    -- "ability_sorcerer_greater_storm_atronach.dds",
-    -- "ability_sorcerer_hurricane.dds",
-    -- "ability_sorcerer_lightning_flood.dds",
-    -- "ability_sorcerer_lightning_form.dds",
-    -- "ability_sorcerer_lightning_matriarch.dds",
-    -- "ability_sorcerer_lightning_prey.dds",
-    -- "ability_sorcerer_lightning_splash.dds",
-    -- "ability_sorcerer_liquid_lightning.dds",
-    -- "ability_sorcerer_mage_fury.dds",
-    -- "ability_sorcerer_mage_wraith.dds",
-    -- "ability_sorcerer_monsoon.dds",
-    -- "ability_sorcerer_overload.dds",
-    -- "ability_sorcerer_power_overload.dds",
-    -- "ability_sorcerer_power_surge.dds",
-    -- "ability_sorcerer_rushing_winds.dds",
-    -- "ability_sorcerer_speedy_familiar.dds",
-    -- "ability_sorcerer_storm_atronach.dds",
-    -- "ability_sorcerer_storm_prey.dds",
-    -- "ability_sorcerer_streak.dds",
-    -- "ability_sorcerer_surge.dds",
-    -- "ability_sorcerer_tempest.dds",
-    -- "ability_sorcerer_thunderclap.dds",
-    -- "ability_sorcerer_thundering_presence.dds",
-    -- "ability_sorcerer_thunderstomp.dds",
-    -- "ability_sorcerer_twister.dds",
-    -- "ability_sorcerer_typhoon.dds",
-    -- "ability_sorcerer_unstable_clannfear.dds",
-    -- "ability_sorcerer_unstable_fimiliar.dds",
-    -- "ability_sorcerer_velocious_curse.dds",
-    -- "ability_sorcerer_weakening_fog.dds",
-    -- "ability_sorcerer_lightning_matriarch_summoned.dds",
-    -- "ability_sorcerer_lightning_prey_summoned.dds",
-    -- "ability_sorcerer_speedy_familiar_summoned.dds",
-    -- "ability_sorcerer_storm_prey_summoned.dds",
-    -- "ability_sorcerer_thunder_burst.dds",
-    -- "ability_sorcerer_thunderclap.dds",
-    -- "ability_sorcerer_thunderstomp.dds",
-    -- "ability_sorcerer_thunderstomp_proc.dds",
-    -- "ability_sorcerer_unstable_clannfear_summoned.dds",
-    -- "ability_sorcerer_unstable_fimiliar_summoned.dds",
-    -- "ability_sorcerer_bound_armaments_proc.dds",
+    -- "ability_sorcerer_daedric_minefield.dds",
+    -- "ability_sorcerer_daedric_mines.dds",
+    -- "ability_sorcerer_daedric_tomb.dds",
 
-    -- Nightblade
-    -- "ability_necromancer_018_b.dds",
-    -- "ability_nightblade_001.dds",
-    -- "ability_nightblade_001_a.dds",
-    -- "ability_nightblade_001_b.dds",
-    -- "ability_nightblade_002.dds",
+    -- Nightblade - Assassination
+    -- "ability_nightblade_002.dds", -- Veiled Strike
     -- "ability_nightblade_002_a.dds",
     -- "ability_nightblade_002_b.dds",
-    -- "ability_nightblade_003.dds",
-    -- "ability_nightblade_003_a.dds",
-    -- "ability_nightblade_003_b.dds",
-    -- "ability_nightblade_004.dds",
-    -- "ability_nightblade_004_a.dds",
-    -- "ability_nightblade_004_b.dds",
-    -- "ability_nightblade_005.dds",
+    -- "ability_nightblade_005.dds", -- Grim Focus
     -- "ability_nightblade_005_a.dds",
     -- "ability_nightblade_005_b.dds",
-    -- "ability_nightblade_006.dds",
-    -- "ability_nightblade_006_a.dds",
-    -- "ability_nightblade_006_b.dds",
-    -- "ability_nightblade_007.dds",
-    -- "ability_nightblade_007_a.dds",
-    -- "ability_nightblade_007_b.dds",
-    -- "ability_nightblade_007_c.dds",
-    -- "ability_nightblade_008.dds",
+    -- "ability_nightblade_007.dds", -- Death Stroke
+    -- "ability_nightblade_007_a.dds", -- Incap
+    -- "ability_nightblade_007_b.dds", -- Soul Harvest
+    -- "ability_nightblade_007_c.dds", -- Incap green
+    -- "ability_nightblade_008.dds", -- Teleport Strike
     -- "ability_nightblade_008_a.dds",
     -- "ability_nightblade_008_b.dds",
-    -- "ability_nightblade_009.dds",
-    -- "ability_nightblade_009_a.dds",
-    -- "ability_nightblade_009_b.dds",
-    -- "ability_nightblade_010.dds",
-    -- "ability_nightblade_010_a.dds",
-    -- "ability_nightblade_010_b.dds",
-    -- "ability_nightblade_011.dds",
-    -- "ability_nightblade_011_a.dds",
-    -- "ability_nightblade_011_b.dds",
-    -- "ability_nightblade_012.dds",
-    -- "ability_nightblade_012_a.dds",
-    -- "ability_nightblade_012_b.dds",
-    -- "ability_nightblade_013.dds",
-    -- "ability_nightblade_013_a.dds",
-    -- "ability_nightblade_013_b.dds",
-    -- "ability_nightblade_014.dds",
+    -- "ability_nightblade_014.dds", -- Mark Target
     -- "ability_nightblade_014_a.dds",
     -- "ability_nightblade_014_b.dds",
-    -- "ability_nightblade_015.dds",
-    -- "ability_nightblade_015_a.dds",
-    -- "ability_nightblade_015_b.dds",
-    -- "ability_nightblade_016.dds",
-    -- "ability_nightblade_016_a.dds",
-    -- "ability_nightblade_016_b.dds",
-    -- "ability_nightblade_017.dds",
+    -- "ability_nightblade_017.dds", -- Assassin's Blade
     -- "ability_nightblade_017_a.dds",
     -- "ability_nightblade_017_b.dds",
-    -- "ability_nightblade_018.dds",
+
+    -- Nightblade - Shadow
+    -- "ability_nightblade_001.dds", -- Shade
+    -- "ability_nightblade_001_a.dds",
+    -- "ability_nightblade_001_b.dds",
+    -- "ability_nightblade_004.dds", -- Shadow Cloak
+    -- "ability_nightblade_004_a.dds",
+    -- "ability_nightblade_004_b.dds",
+    -- "ability_nightblade_009.dds", -- Blur
+    -- "ability_nightblade_009_a.dds",
+    -- "ability_nightblade_009_b.dds",
+    -- "ability_nightblade_010.dds", -- Path
+    -- "ability_nightblade_010_a.dds",
+    -- "ability_nightblade_010_b.dds",
+    -- "ability_nightblade_015.dds", -- Consuming Darkness
+    -- "ability_nightblade_015_a.dds",
+    -- "ability_nightblade_015_b.dds",
+    -- "ability_nightblade_016.dds", -- Aspect of Terror
+    -- "ability_nightblade_016_a.dds",
+    -- "ability_nightblade_016_b.dds",
+
+    -- Nightblade - Siphoning
+    -- "ability_nightblade_003.dds", -- Siphoning Strikes
+    -- "ability_nightblade_003_a.dds",
+    -- "ability_nightblade_003_b.dds",
+    -- "ability_nightblade_006.dds", -- Cripple
+    -- "ability_nightblade_006_a.dds",
+    -- "ability_nightblade_006_b.dds",
+    -- "ability_nightblade_011.dds", -- Offering
+    -- "ability_nightblade_011_a.dds",
+    -- "ability_nightblade_011_b.dds",
+    -- "ability_nightblade_012.dds", -- Strife
+    -- "ability_nightblade_012_a.dds",
+    -- "ability_nightblade_012_b.dds",
+    -- "ability_nightblade_013.dds", -- Drain Power
+    -- "ability_nightblade_013_a.dds",
+    -- "ability_nightblade_013_b.dds",
+    -- "ability_nightblade_018.dds", -- Soul Shred
     -- "ability_nightblade_018_a.dds",
     -- "ability_nightblade_018_b.dds",
 
-    -- Templar
-    -- "ability_templar_backlash.dds",
-    -- "ability_templar_blazing_shield.dds",
-    -- "ability_templar_breath_of_life.dds",
-    -- "ability_templar_channeled_focus.dds",
-    -- "ability_templar_cleansing_ritual.dds",
-    -- "ability_templar_crescent_sweep.dds",
-    -- "ability_templar_dark_flare.dds",
-    -- "ability_templar_double_tipped_charge.dds",
-    -- "ability_templar_eclipse.dds",
-    -- "ability_templar_empowering_sweep.dds",
-    -- "ability_templar_extended_ritual.dds",
-    -- "ability_templar_focused_charge.dds",
-    -- "ability_templar_healing_ritual.dds",
-    -- "ability_templar_honor_the_dead.dds",
-    -- "ability_templar_life_giving_sigil.dds",
-    -- "ability_templar_light_spear.dds",
-    -- "ability_templar_light_strike.dds",
-    -- "ability_templar_lingering_ritual.dds",
-    -- "ability_templar_nova.dds",
-    -- "ability_templar_over_exposure.dds",
-    -- "ability_templar_persistant_sigil.dds",
-    -- "ability_templar_power_of_the_light.dds",
-    -- "ability_templar_practiced_incantation.dds",
-    -- "ability_templar_purifying_light.dds",
-    -- "ability_templar_purifying_ritual.dds",
+    -- Templar - Aedric Spear
     -- "ability_templar_radial_sweep.dds",
-    -- "ability_templar_radiant_ward.dds",
-    -- "ability_templar_reckless_attacks.dds",
-    -- "ability_templar_recovery.dds",
-    -- "ability_templar_reflective_light.dds",
-    -- "ability_templar_remembrance.dds",
-    -- "ability_templar_restoring_sigil.dds",
-    -- "ability_templar_returning_spear.dds",
-    -- "ability_templar_ripping_spear.dds",
-    -- "ability_templar_rite_of_passage.dds",
-    -- "ability_templar_ritual_of_rebirth.dds",
-    -- "ability_templar_rune_focus.dds",
-    -- "ability_templar_rushed_ceremony.dds",
-    -- "ability_templar_solar_disturbance.dds",
-    -- "ability_templar_solar_flare.dds",
-    -- "ability_templar_solar_power.dds",
-    -- "ability_templar_solar_prison.dds",
-    -- "ability_templar_stendarr_aura.dds",
-    -- "ability_templar_sun_fire.dds",
-    -- "ability_templar_sun_shield.dds",
-    -- "ability_templar_sun_strike.dds",
+    -- "ability_templar_crescent_sweep.dds",
+    -- "ability_templar_empowering_sweep.dds", -- Everlasting Sweep
+    -- "ability_templar_trained_attacker.dds", -- Puncturing Strikes
+    -- "ability_templar_reckless_attacks.dds", -- Puncturing Sweep
+    -- "ability_templar_recovery.dds", -- Biting Jabs
+    -- "ability_templar_returning_spear.dds", -- Piercing Javelin
+    -- "ability_templar_light_spear.dds", -- Binding Javelin
+    -- "ability_templar_ripping_spear.dds", -- Aurora Javelin
+    -- "ability_templar_focused_charge.dds",
+    -- "ability_templar_double_tipped_charge.dds", -- Explosive Charge
     -- "ability_templar_toppling_charge.dds",
-    -- "ability_templar_total_dark.dds",
-    -- "ability_templar_trained_attacker.dds",
-    -- "ability_templar_under_exposure.dds",
-    -- "ability_templar_uninterrupted_focus.dds",
-    -- "ability_templar_unstable_core.dds",
-    -- "ability_templar_vampire_bane.dds",
-    -- "ability_templarsun_thrust.dds",
+    -- "ability_templar_sun_strike.dds", -- Spear Shards
+    -- "ability_templarsun_thrust.dds", -- Blazing Spear
+    -- "ability_templar_light_strike.dds", -- Luminous Shards
+    -- "ability_templar_sun_shield.dds",
+    -- "ability_templar_blazing_shield.dds",
+    -- "ability_templar_radiant_ward.dds",
 
-    -- Warden
+    -- Templar - Dawn's Wrath
+    -- "ability_templar_nova.dds",
+    -- "ability_templar_solar_disturbance.dds",
+    -- "ability_templar_solar_prison.dds",
+    -- "ability_templar_sun_fire.dds",
+    -- "ability_templar_reflective_light.dds",
+    -- "ability_templar_vampire_bane.dds",
+    -- "ability_templar_solar_flare.dds",
+    -- "ability_templar_solar_power.dds", -- Solar Barrage
+    -- "ability_templar_dark_flare.dds",
+    -- "ability_templar_backlash.dds",
+    -- "ability_templar_power_of_the_light.dds",
+    -- "ability_templar_purifying_light.dds",
+    -- "ability_templar_eclipse.dds",
+    -- "ability_templar_total_dark.dds", -- Unstable Core
+    -- "ability_templar_unstable_core.dds", -- Living Dark
+    -- "ability_templar_over_exposure.dds", -- Radiant Destruction
+    -- "ability_templar_stendarr_aura.dds", -- Radiant Oppression
+    -- "ability_templar_under_exposure.dds", -- Radiant Glory
+
+    -- Templar - Restoring Light
+    -- "ability_templar_rite_of_passage.dds",
+    -- "ability_templar_remembrance.dds",
+    -- "ability_templar_practiced_incantation.dds",
+    -- "ability_templar_rushed_ceremony.dds",
+    -- "ability_templar_breath_of_life.dds",
+    -- "ability_templar_honor_the_dead.dds",
+    -- "ability_templar_healing_ritual.dds",
+    -- "ability_templar_lingering_ritual.dds", -- Hasty Prayer
+    -- "ability_templar_ritual_of_rebirth.dds",
+    -- "ability_templar_restoring_sigil.dds", -- Restoring Aura
+    -- "ability_templar_life_giving_sigil.dds", -- Radiant Aura
+    -- "ability_templar_persistant_sigil.dds", -- Repentance
+    -- "ability_templar_cleansing_ritual.dds",
+    -- "ability_templar_extended_ritual.dds",
+    -- "ability_templar_purifying_ritual.dds", -- Ritual of Retribution
+    -- "ability_templar_rune_focus.dds",
+    -- "ability_templar_channeled_focus.dds",
+    -- "ability_templar_uninterrupted_focus.dds", -- Restoring Focus
+
+    -- Warden - Winter's Embrace
     -- "ability_warden_001.dds",
     -- "ability_warden_001_a.dds",
     -- "ability_warden_001_b.dds",
@@ -259,6 +271,8 @@ local ABILITY_ICONS = {
     -- "ability_warden_006.dds",
     -- "ability_warden_006_a.dds",
     -- "ability_warden_006_b.dds",
+
+    -- Warden - Green Balance
     -- "ability_warden_007.dds",
     -- "ability_warden_007_a.dds",
     -- "ability_warden_007_b.dds",
@@ -278,6 +292,8 @@ local ABILITY_ICONS = {
     -- "ability_warden_012.dds",
     -- "ability_warden_012_a.dds",
     -- "ability_warden_012_b.dds",
+
+    -- Warden - Animal Companions
     -- "ability_warden_013.dds",
     -- "ability_warden_013_a.dds",
     -- "ability_warden_013_b.dds",
@@ -297,25 +313,30 @@ local ABILITY_ICONS = {
     -- "ability_warden_018_b.dds",
     -- "ability_warden_018_c.dds",
 
-    -- Necro
-    -- "ability_necromancer_001.dds",
-    -- "ability_necromancer_001_a.dds",
-    -- "ability_necromancer_001_b.dds",
-    -- "ability_necromancer_002.dds",
-    -- "ability_necromancer_002_a.dds",
-    -- "ability_necromancer_002_b.dds",
-    -- "ability_necromancer_003.dds",
-    -- "ability_necromancer_003_a.dds",
-    -- "ability_necromancer_003_b.dds",
-    -- "ability_necromancer_004.dds",
-    -- "ability_necromancer_004_a.dds",
-    -- "ability_necromancer_004_b.dds",
+    -- Necro - Grave Lord
+    "ability_necromancer_001.dds",
+    "ability_necromancer_001_a.dds",
+    "ability_necromancer_001_b.dds",
+    "ability_necromancer_002.dds",
+    -- "ability_necromancer_002_blackedout.dds",
+    "ability_necromancer_002_a.dds",
+    -- "ability_necromancer_002_a_blackedout.dds",
+    "ability_necromancer_002_b.dds",
+    -- "ability_necromancer_002_b_blackedout.dds",
+    "ability_necromancer_003.dds",
+    "ability_necromancer_003_a.dds",
+    "ability_necromancer_003_b.dds",
+    "ability_necromancer_004.dds",
+    "ability_necromancer_004_a.dds",
+    "ability_necromancer_004_b.dds",
     -- "ability_necromancer_005.dds",
     -- "ability_necromancer_005_a.dds",
     -- "ability_necromancer_005_b.dds",
-    -- "ability_necromancer_006.dds",
-    -- "ability_necromancer_006_a.dds",
-    -- "ability_necromancer_006_b.dds",
+    "ability_necromancer_006.dds",
+    "ability_necromancer_006_a.dds",
+    "ability_necromancer_006_b.dds",
+
+    -- Necro - Bone Tyrant
     -- "ability_necromancer_007.dds",
     -- "ability_necromancer_007_a.dds",
     -- "ability_necromancer_007_b.dds",
@@ -334,6 +355,8 @@ local ABILITY_ICONS = {
     -- "ability_necromancer_012.dds",
     -- "ability_necromancer_012_a.dds",
     -- "ability_necromancer_012_b.dds",
+
+    -- Necro - Living Death
     -- "ability_necromancer_013.dds",
     -- "ability_necromancer_013_a.dds",
     -- "ability_necromancer_013_b.dds",
@@ -351,11 +374,9 @@ local ABILITY_ICONS = {
     -- "ability_necromancer_017_b.dds",
     -- "ability_necromancer_018.dds",
     -- "ability_necromancer_018_a.dds",
-    -- "ability_necromancer_002_a_blackedout.dds",
-    -- "ability_necromancer_002_b_blackedout.dds",
-    -- "ability_necromancer_002_blackedout.dds",
+    -- "ability_necromancer_018_b.dds",
 
-    -- Arcanist
+    -- Arcanist - Herald of the Tome
     -- "ability_arcanist_001.dds",
     -- "ability_arcanist_001_a.dds",
     -- "ability_arcanist_001_b.dds",
@@ -374,6 +395,8 @@ local ABILITY_ICONS = {
     -- "ability_arcanist_006.dds",
     -- "ability_arcanist_006_a.dds",
     -- "ability_arcanist_006_b.dds",
+
+    -- Arcanist - Soldier of Apocrypha
     -- "ability_arcanist_007.dds",
     -- "ability_arcanist_007_a.dds",
     -- "ability_arcanist_007_b.dds",
@@ -392,6 +415,8 @@ local ABILITY_ICONS = {
     -- "ability_arcanist_012.dds",
     -- "ability_arcanist_012_a.dds",
     -- "ability_arcanist_012_b.dds",
+
+    -- Arcanist - Curative Runeforms
     -- "ability_arcanist_013.dds",
     -- "ability_arcanist_013_a.dds",
     -- "ability_arcanist_013_b.dds",
