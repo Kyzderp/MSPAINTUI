@@ -313,7 +313,7 @@ local ABILITY_ICONS = {
     -- "ability_warden_018_b.dds",
     -- "ability_warden_018_c.dds",
 
-    -- Necro - Grave Lord
+    -- Necro - Grave Lord - @BirdSalad
     "ability_necromancer_001.dds",
     "ability_necromancer_001_a.dds",
     "ability_necromancer_001_b.dds",
