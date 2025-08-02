@@ -83,8 +83,8 @@ local ABILITY_ICONS = {
     -- "ability_sorcerer_streak.dds",
 
     -- Sorcerer - Daedric Summoning
+    "ability_sorcerer_storm_atronach.dds",
     -- "ability_sorcerer_endless_atronachs.dds", -- Charged Atronach
-    -- "ability_sorcerer_storm_atronach.dds",
     -- "ability_sorcerer_greater_storm_atronach.dds",
     -- "ability_sorcerer_unstable_fimiliar.dds",
     -- "ability_sorcerer_unstable_fimiliar_summoned.dds",
