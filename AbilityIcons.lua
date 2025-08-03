@@ -436,10 +436,10 @@ local ABILITY_ICONS = {
     -- "ability_arcanist_018_a.dds",
     -- "ability_arcanist_018_b.dds",
 
-    -- Destro
-    -- "ability_destructionstaff_001.dds",
-    -- "ability_destructionstaff_001a.dds",
-    -- "ability_destructionstaff_001b.dds",
+    -- Destro - @Eashi
+    "ability_destructionstaff_001.dds", -- Force Shock
+    "ability_destructionstaff_001a.dds",
+    "ability_destructionstaff_001b.dds",
     -- "ability_destructionstaff_002.dds",
     -- "ability_destructionstaff_002a.dds",
     -- "ability_destructionstaff_002b.dds",
@@ -467,9 +467,9 @@ local ABILITY_ICONS = {
     -- "ability_destructionstaff_010.dds",
     -- "ability_destructionstaff_010_a.dds",
     -- "ability_destructionstaff_010_b.dds",
-    -- "ability_destructionstaff_011.dds",
-    -- "ability_destructionstaff_011a.dds",
-    -- "ability_destructionstaff_011b.dds",
+    "ability_destructionstaff_011.dds", -- Weakness to Elements
+    "ability_destructionstaff_011a.dds",
+    "ability_destructionstaff_011b.dds",
     -- "ability_destructionstaff_012.dds",
     -- "ability_destructionstaff_012_a.dds",
     -- "ability_destructionstaff_012_b.dds",
