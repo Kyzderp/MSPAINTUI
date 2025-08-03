@@ -440,15 +440,15 @@ local ABILITY_ICONS = {
     "ability_destructionstaff_001.dds", -- Force Shock
     "ability_destructionstaff_001a.dds",
     "ability_destructionstaff_001b.dds",
-    -- "ability_destructionstaff_002.dds",
-    -- "ability_destructionstaff_002a.dds",
-    -- "ability_destructionstaff_002b.dds",
-    -- "ability_destructionstaff_003.dds",
-    -- "ability_destructionstaff_003_a.dds",
-    -- "ability_destructionstaff_003_b.dds",
-    -- "ability_destructionstaff_004.dds",
-    -- "ability_destructionstaff_004_a.dds",
-    -- "ability_destructionstaff_004_b.dds",
+    "ability_destructionstaff_002.dds", -- Ice Wall
+    "ability_destructionstaff_002a.dds",
+    "ability_destructionstaff_002b.dds",
+    "ability_destructionstaff_003.dds", -- Lightning Wall
+    "ability_destructionstaff_003_a.dds",
+    "ability_destructionstaff_003_b.dds",
+    "ability_destructionstaff_004.dds", -- Inferno Wall
+    "ability_destructionstaff_004_a.dds",
+    "ability_destructionstaff_004_b.dds",
     -- "ability_destructionstaff_005.dds",
     -- "ability_destructionstaff_005_a.dds",
     -- "ability_destructionstaff_005_b.dds",
