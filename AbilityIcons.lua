@@ -755,7 +755,7 @@ local ABILITY_ICONS = {
     -- "ability_grimoire_2handed.dds",
     -- "ability_grimoire_soulmagic2.dds",
     -- "ability_grimoire_fightersguild.dds",
-    -- "ability_grimoire_assault.dds",
+    "ability_grimoire_assault.dds",
     -- "ability_grimoire_dualwield.dds",
     -- "ability_grimoire_magesguild.dds",
     -- "ability_grimoire_bow.dds",
