@@ -716,25 +716,25 @@ local ABILITY_ICONS = {
     -- "ability_u26_vampire_06_a.dds",
     -- "ability_u26_vampire_06_b.dds",
 
-    -- Werewolf
-    -- "ability_werewolf_001.dds",
-    -- "ability_werewolf_001_a.dds",
-    -- "ability_werewolf_001_b.dds",
-    -- "ability_werewolf_002.dds",
-    -- "ability_werewolf_002_a.dds",
-    -- "ability_werewolf_002_b.dds",
-    -- "ability_werewolf_003.dds",
-    -- "ability_werewolf_003_a.dds",
-    -- "ability_werewolf_003_b.dds",
-    -- "ability_werewolf_004_a.dds",
-    -- "ability_werewolf_004_b.dds",
-    -- "ability_werewolf_004_c.dds",
-    -- "ability_werewolf_005_a.dds",
-    -- "ability_werewolf_005_b.dds",
-    -- "ability_werewolf_005_c.dds",
-    -- "ability_werewolf_006_a.dds",
-    -- "ability_werewolf_006_b.dds",
-    -- "ability_werewolf_006_c.dds",
+    -- Werewolf - @Plonkerr
+    "ability_werewolf_001.dds", -- Werewolf Transformation
+    "ability_werewolf_001_a.dds",
+    "ability_werewolf_001_b.dds",
+    "ability_werewolf_002.dds", -- Pounce
+    "ability_werewolf_002_a.dds",
+    "ability_werewolf_002_b.dds",
+    "ability_werewolf_003.dds", -- Roar
+    "ability_werewolf_003_a.dds",
+    "ability_werewolf_003_b.dds",
+    "ability_werewolf_004_a.dds", -- Hircine's Bounty
+    "ability_werewolf_004_b.dds", -- Hircine's Rage
+    "ability_werewolf_004_c.dds", -- Hircine's Fortitude
+    "ability_werewolf_005_a.dds", -- Piercing Howl
+    "ability_werewolf_005_b.dds",
+    "ability_werewolf_005_c.dds",
+    "ability_werewolf_006_a.dds", -- Infectious Claws
+    "ability_werewolf_006_b.dds",
+    "ability_werewolf_006_c.dds",
 
     -- Armor
     -- "ability_armor_001.dds",
