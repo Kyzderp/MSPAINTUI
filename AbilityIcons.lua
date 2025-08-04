@@ -131,7 +131,7 @@ local ABILITY_ICONS = {
     -- "ability_sorcerer_daedric_mines.dds",
     -- "ability_sorcerer_daedric_tomb.dds",
 
-    -- Nightblade - Assassination
+    -- Nightblade - Assassination - @Kyzeragon
     -- "ability_nightblade_002.dds", -- Veiled Strike
     -- "ability_nightblade_002_a.dds",
     -- "ability_nightblade_002_b.dds",
@@ -145,9 +145,9 @@ local ABILITY_ICONS = {
     -- "ability_nightblade_008.dds", -- Teleport Strike
     -- "ability_nightblade_008_a.dds",
     -- "ability_nightblade_008_b.dds",
-    -- "ability_nightblade_014.dds", -- Mark Target
-    -- "ability_nightblade_014_a.dds",
-    -- "ability_nightblade_014_b.dds",
+    "ability_nightblade_014.dds", -- Mark Target
+    "ability_nightblade_014_a.dds",
+    "ability_nightblade_014_b.dds",
     -- "ability_nightblade_017.dds", -- Assassin's Blade
     -- "ability_nightblade_017_a.dds",
     -- "ability_nightblade_017_b.dds",
