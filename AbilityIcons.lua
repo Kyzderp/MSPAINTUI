@@ -107,7 +107,7 @@ local ABILITY_ICONS = {
     "ability_sorcerer_bound_armor.dds",
     "ability_sorcerer_bound_aegis.dds",
     "ability_sorcerer_bound_armaments.dds",
-    -- "ability_sorcerer_bound_armaments_proc.dds",
+    "ability_sorcerer_bound_armaments_proc.dds",
 
     -- Sorcerer - Dark Magic
     -- "ability_sorcerer_monsoon.dds", -- Negate Magic
