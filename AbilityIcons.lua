@@ -583,7 +583,7 @@ local ABILITY_ICONS = {
     -- "ability_restorationstaff_006_a.dds",
     -- "ability_restorationstaff_006_b.dds",
 
-    -- Fighters Guild
+    -- Fighters Guild - @QueuesAsTanks
     -- "ability_fightersguild_001.dds",
     -- "ability_fightersguild_001_a.dds",
     -- "ability_fightersguild_001_b.dds",
@@ -596,9 +596,9 @@ local ABILITY_ICONS = {
     -- "ability_fightersguild_004.dds",
     -- "ability_fightersguild_004_a.dds",
     -- "ability_fightersguild_004_b.dds",
-    -- "ability_fightersguild_005.dds",
-    -- "ability_fightersguild_005_a.dds",
-    -- "ability_fightersguild_005_b.dds",
+    "ability_fightersguild_005.dds", -- Dawnbreaker
+    "ability_fightersguild_005_a.dds",
+    "ability_fightersguild_005_b.dds",
 
     -- Mages Guild
     -- "ability_mageguild_001.dds",
