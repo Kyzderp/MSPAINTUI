@@ -212,25 +212,25 @@ local ABILITY_ICONS = {
     -- "ability_templar_blazing_shield.dds",
     -- "ability_templar_radiant_ward.dds",
 
-    -- Templar - Dawn's Wrath
-    -- "ability_templar_nova.dds",
-    -- "ability_templar_solar_disturbance.dds",
-    -- "ability_templar_solar_prison.dds",
-    -- "ability_templar_sun_fire.dds",
-    -- "ability_templar_reflective_light.dds",
-    -- "ability_templar_vampire_bane.dds",
-    -- "ability_templar_solar_flare.dds",
-    -- "ability_templar_solar_power.dds", -- Solar Barrage
-    -- "ability_templar_dark_flare.dds",
-    -- "ability_templar_backlash.dds",
-    -- "ability_templar_power_of_the_light.dds",
-    -- "ability_templar_purifying_light.dds",
-    -- "ability_templar_eclipse.dds",
-    -- "ability_templar_total_dark.dds", -- Unstable Core
-    -- "ability_templar_unstable_core.dds", -- Living Dark
-    -- "ability_templar_over_exposure.dds", -- Radiant Destruction
-    -- "ability_templar_stendarr_aura.dds", -- Radiant Oppression
-    -- "ability_templar_under_exposure.dds", -- Radiant Glory
+    -- Templar - Dawn's Wrath - @BirdSalad
+    "ability_templar_nova.dds",
+    "ability_templar_solar_disturbance.dds",
+    "ability_templar_solar_prison.dds",
+    "ability_templar_sun_fire.dds",
+    "ability_templar_reflective_light.dds",
+    "ability_templar_vampire_bane.dds",
+    "ability_templar_solar_flare.dds",
+    "ability_templar_solar_power.dds", -- Solar Barrage
+    "ability_templar_dark_flare.dds",
+    "ability_templar_backlash.dds",
+    "ability_templar_power_of_the_light.dds",
+    "ability_templar_purifying_light.dds",
+    "ability_templar_eclipse.dds",
+    "ability_templar_total_dark.dds", -- Unstable Core
+    "ability_templar_unstable_core.dds", -- Living Dark
+    "ability_templar_over_exposure.dds", -- Radiant Destruction
+    "ability_templar_stendarr_aura.dds", -- Radiant Oppression
+    "ability_templar_under_exposure.dds", -- Radiant Glory
 
     -- Templar - Restoring Light
     -- "ability_templar_rite_of_passage.dds",
