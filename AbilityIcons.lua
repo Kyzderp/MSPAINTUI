@@ -449,24 +449,24 @@ local ABILITY_ICONS = {
     "ability_destructionstaff_004.dds", -- Inferno Wall
     "ability_destructionstaff_004_a.dds",
     "ability_destructionstaff_004_b.dds",
-    -- "ability_destructionstaff_005.dds",
-    -- "ability_destructionstaff_005_a.dds",
-    -- "ability_destructionstaff_005_b.dds",
-    -- "ability_destructionstaff_006.dds",
-    -- "ability_destructionstaff_006_a.dds",
-    -- "ability_destructionstaff_006_b.dds",
-    -- "ability_destructionstaff_007.dds",
-    -- "ability_destructionstaff_007_a.dds",
-    -- "ability_destructionstaff_007_b.dds",
-    -- "ability_destructionstaff_008.dds",
-    -- "ability_destructionstaff_008_a.dds",
-    -- "ability_destructionstaff_008_b.dds",
-    -- "ability_destructionstaff_009.dds",
-    -- "ability_destructionstaff_009_a.dds",
-    -- "ability_destructionstaff_009_b.dds",
-    -- "ability_destructionstaff_010.dds",
-    -- "ability_destructionstaff_010_a.dds",
-    -- "ability_destructionstaff_010_b.dds",
+    "ability_destructionstaff_005.dds", -- Ice Touch
+    "ability_destructionstaff_005_a.dds",
+    "ability_destructionstaff_005_b.dds",
+    "ability_destructionstaff_006.dds", -- Lightning Touch
+    "ability_destructionstaff_006_a.dds",
+    "ability_destructionstaff_006_b.dds",
+    "ability_destructionstaff_007.dds", -- Inferno Touch
+    "ability_destructionstaff_007_a.dds",
+    "ability_destructionstaff_007_b.dds",
+    "ability_destructionstaff_008.dds", -- Ice Impulse
+    "ability_destructionstaff_008_a.dds",
+    "ability_destructionstaff_008_b.dds",
+    "ability_destructionstaff_009.dds", -- Lightning Impulse
+    "ability_destructionstaff_009_a.dds",
+    "ability_destructionstaff_009_b.dds",
+    "ability_destructionstaff_010.dds", -- Inferno Impulse
+    "ability_destructionstaff_010_a.dds",
+    "ability_destructionstaff_010_b.dds",
     "ability_destructionstaff_011.dds", -- Weakness to Elements
     "ability_destructionstaff_011a.dds",
     "ability_destructionstaff_011b.dds",
