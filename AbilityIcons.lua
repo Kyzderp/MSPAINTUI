@@ -132,16 +132,16 @@ local ABILITY_ICONS = {
     -- "ability_sorcerer_daedric_tomb.dds",
 
     -- Nightblade - Assassination - @Kyzeragon
-    -- "ability_nightblade_002.dds", -- Veiled Strike
-    -- "ability_nightblade_002_a.dds",
-    -- "ability_nightblade_002_b.dds",
-    -- "ability_nightblade_005.dds", -- Grim Focus
-    -- "ability_nightblade_005_a.dds",
-    -- "ability_nightblade_005_b.dds",
-    -- "ability_nightblade_007.dds", -- Death Stroke
-    -- "ability_nightblade_007_a.dds", -- Incap
-    -- "ability_nightblade_007_b.dds", -- Soul Harvest
-    -- "ability_nightblade_007_c.dds", -- Incap green
+    "ability_nightblade_002.dds", -- Veiled Strike
+    "ability_nightblade_002_a.dds",
+    "ability_nightblade_002_b.dds",
+    "ability_nightblade_005.dds", -- Grim Focus
+    "ability_nightblade_005_a.dds",
+    "ability_nightblade_005_b.dds",
+    "ability_nightblade_007.dds", -- Death Stroke
+    "ability_nightblade_007_a.dds", -- Incap
+    "ability_nightblade_007_b.dds", -- Soul Harvest
+    "ability_nightblade_007_c.dds", -- Incap green
     -- "ability_nightblade_008.dds", -- Teleport Strike
     -- "ability_nightblade_008_a.dds",
     -- "ability_nightblade_008_b.dds",
