@@ -82,31 +82,31 @@ local ABILITY_ICONS = {
     -- "ability_sorcerer_ball_of_lightning.dds",
     -- "ability_sorcerer_streak.dds",
 
-    -- Sorcerer - Daedric Summoning
+    -- Sorcerer - Daedric Summoning - @Thepinja
     "ability_sorcerer_storm_atronach.dds",
-    -- "ability_sorcerer_endless_atronachs.dds", -- Charged Atronach
-    -- "ability_sorcerer_greater_storm_atronach.dds",
-    -- "ability_sorcerer_unstable_fimiliar.dds",
-    -- "ability_sorcerer_unstable_fimiliar_summoned.dds",
-    -- "ability_sorcerer_speedy_familiar.dds", -- Volatile
-    -- "ability_sorcerer_speedy_familiar_summoned.dds",
-    -- "ability_sorcerer_unstable_clannfear.dds",
-    -- "ability_sorcerer_unstable_clannfear_summoned.dds",
-    -- "ability_sorcerer_daedric_curse.dds",
-    -- "ability_sorcerer_explosive_curse.dds", -- Daedric Prey
-    -- "ability_sorcerer_velocious_curse.dds", -- Haunting Curse
-    -- "ability_sorcerer_lightning_matriarch.dds",
-    -- "ability_sorcerer_lightning_matriarch_summoned.dds",
-    -- "ability_sorcerer_lightning_prey.dds", -- Twilight
-    -- "ability_sorcerer_lightning_prey_summoned.dds",
-    -- "ability_sorcerer_storm_prey.dds", -- Matriarch
-    -- "ability_sorcerer_storm_prey_summoned.dds",
-    -- "ability_sorcerer_hurricane.dds", -- Conjured Ward
-    -- "ability_sorcerer_tempest.dds", -- Regenerative Ward
-    -- "ability_sorcerer_typhoon.dds", -- Hardened Ward
-    -- "ability_sorcerer_bound_armor.dds",
-    -- "ability_sorcerer_bound_aegis.dds",
-    -- "ability_sorcerer_bound_armaments.dds",
+    "ability_sorcerer_endless_atronachs.dds", -- Charged Atronach
+    "ability_sorcerer_greater_storm_atronach.dds",
+    "ability_sorcerer_unstable_fimiliar.dds",
+    "ability_sorcerer_unstable_fimiliar_summoned.dds",
+    "ability_sorcerer_speedy_familiar.dds", -- Volatile
+    "ability_sorcerer_speedy_familiar_summoned.dds",
+    "ability_sorcerer_unstable_clannfear.dds",
+    "ability_sorcerer_unstable_clannfear_summoned.dds",
+    "ability_sorcerer_daedric_curse.dds",
+    "ability_sorcerer_explosive_curse.dds", -- Daedric Prey
+    "ability_sorcerer_velocious_curse.dds", -- Haunting Curse
+    "ability_sorcerer_lightning_prey.dds", -- Winged Twilight
+    "ability_sorcerer_lightning_prey_summoned.dds",
+    "ability_sorcerer_lightning_matriarch.dds", -- Twilight Tormentor
+    "ability_sorcerer_lightning_matriarch_summoned.dds",
+    "ability_sorcerer_storm_prey.dds", -- Matriarch
+    "ability_sorcerer_storm_prey_summoned.dds",
+    "ability_sorcerer_hurricane.dds", -- Conjured Ward
+    "ability_sorcerer_tempest.dds", -- Regenerative Ward
+    "ability_sorcerer_typhoon.dds", -- Hardened Ward
+    "ability_sorcerer_bound_armor.dds",
+    "ability_sorcerer_bound_aegis.dds",
+    "ability_sorcerer_bound_armaments.dds",
     -- "ability_sorcerer_bound_armaments_proc.dds",
 
     -- Sorcerer - Dark Magic
