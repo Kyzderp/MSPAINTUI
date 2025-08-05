@@ -721,8 +721,11 @@ local ABILITY_ICONS = {
     "ability_werewolf_001_a.dds",
     "ability_werewolf_001_b.dds",
     "ability_werewolf_002.dds", -- Pounce
+    -- "ability_werewolf_002_rend.dds",
     "ability_werewolf_002_a.dds",
+    -- "ability_werewolf_002_rend_a.dds", -- (blue)
     "ability_werewolf_002_b.dds",
+    -- "ability_werewolf_002_rend_b.dds",
     "ability_werewolf_003.dds", -- Roar
     "ability_werewolf_003_a.dds",
     "ability_werewolf_003_b.dds",
