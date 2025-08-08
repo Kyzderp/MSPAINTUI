@@ -654,16 +654,16 @@ local ABILITY_ICONS = {
     -- "ability_undaunted_005a.dds",
     -- "ability_undaunted_005b.dds",
 
-    -- Assault
+    -- Assault - @SuddenGhost24
     -- "ability_ava_001.dds",
     -- "ability_ava_001_a.dds",
     -- "ability_ava_001_b.dds",
     -- "ability_ava_002.dds",
     -- "ability_ava_002_a.dds",
     -- "ability_ava_002_b.dds",
-    -- "ability_ava_003.dds",
-    -- "ability_ava_003_a.dds",
-    -- "ability_ava_003_b.dds",
+    "ability_ava_003.dds", -- War Horn
+    "ability_ava_003_a.dds",
+    "ability_ava_003_b.dds",
     -- "ability_ava_echoing_vigor.dds",
     -- "ability_ava_vigor.dds",
     -- "ability_ava_resolving_vigor.dds",
