@@ -696,25 +696,25 @@ local ABILITY_ICONS = {
     -- "ability_otherclass_002_a.dds",
     -- "ability_otherclass_002_b.dds",
 
-    -- Vampire
+    -- Vampire - @SpookaSpooka
     -- "ability_u26_vampire_01.dds",
     -- "ability_u26_vampire_01_a.dds",
     -- "ability_u26_vampire_01_b.dds",
     -- "ability_u26_vampire_02.dds",
     -- "ability_u26_vampire_02_a.dds",
     -- "ability_u26_vampire_02_b.dds",
-    -- "ability_u26_vampire_03.dds",
-    -- "ability_u26_vampire_03_a.dds",
-    -- "ability_u26_vampire_03_b.dds",
+    "ability_u26_vampire_03.dds", -- Vampiric Drain
+    "ability_u26_vampire_03_a.dds",
+    "ability_u26_vampire_03_b.dds",
     -- "ability_u26_vampire_04.dds",
     -- "ability_u26_vampire_04_a.dds",
     -- "ability_u26_vampire_04_b.dds",
     -- "ability_u26_vampire_05.dds",
     -- "ability_u26_vampire_05_a.dds",
     -- "ability_u26_vampire_05_b.dds",
-    -- "ability_u26_vampire_06.dds",
-    -- "ability_u26_vampire_06_a.dds",
-    -- "ability_u26_vampire_06_b.dds",
+    "ability_u26_vampire_06.dds", -- Blood Scion
+    "ability_u26_vampire_06_a.dds",
+    "ability_u26_vampire_06_b.dds",
 
     -- Werewolf - @Plonkerr
     "ability_werewolf_001.dds", -- Werewolf Transformation
