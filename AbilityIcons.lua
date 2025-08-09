@@ -109,27 +109,27 @@ local ABILITY_ICONS = {
     "ability_sorcerer_bound_armaments.dds",
     "ability_sorcerer_bound_armaments_proc.dds",
 
-    -- Sorcerer - Dark Magic
-    -- "ability_sorcerer_monsoon.dds", -- Negate Magic
-    -- "ability_sorcerer_crushing_monsoon.dds", -- Suppression Field
-    -- "ability_sorcerer_rushing_winds.dds", -- Absorption Field
-    -- "ability_sorcerer_crystalweapon.dds",
+    -- Sorcerer - Dark Magic - @Thepinja
+    "ability_sorcerer_monsoon.dds", -- Negate Magic
+    "ability_sorcerer_crushing_monsoon.dds", -- Suppression Field
+    "ability_sorcerer_rushing_winds.dds", -- Absorption Field
+    "ability_sorcerer_crystalweapon.dds",
     -- "ability_sorcerer_thunder_burst.dds", -- unsure what this is, looks like base frags with more lightning
-    -- "ability_sorcerer_thunderclap.dds", -- Crystal Shard
-    -- "ability_sorcerer_thunderstomp.dds", -- Crystal Fragments
+    "ability_sorcerer_thunderclap.dds", -- Crystal Shard
+    "ability_sorcerer_thunderstomp.dds", -- Crystal Fragments
     -- "ability_sorcerer_thunderstomp_proc.dds",
-    -- "ability_sorcerer_cyclone.dds", -- Encase
-    -- "ability_sorcerer_crushing_winds.dds", -- Vibrant Shroud
-    -- "ability_sorcerer_twister.dds", -- Shattering Spines
-    -- "ability_sorcerer_dark_fog.dds", -- Rune Prison
-    -- "ability_sorcerer_dark_haze.dds", -- Rune Cage
-    -- "ability_sorcerer_weakening_fog.dds", -- Defensive Rune
-    -- "ability_sorcerer_dark_conversion.dds",
-    -- "ability_sorcerer_dark_deal.dds",
-    -- "ability_sorcerer_dark_exchange.dds",
-    -- "ability_sorcerer_daedric_minefield.dds",
-    -- "ability_sorcerer_daedric_mines.dds",
-    -- "ability_sorcerer_daedric_tomb.dds",
+    "ability_sorcerer_cyclone.dds", -- Encase
+    "ability_sorcerer_crushing_winds.dds", -- Vibrant Shroud
+    "ability_sorcerer_twister.dds", -- Shattering Spines
+    "ability_sorcerer_dark_fog.dds", -- Rune Prison
+    "ability_sorcerer_dark_haze.dds", -- Rune Cage
+    "ability_sorcerer_weakening_fog.dds", -- Defensive Rune
+    "ability_sorcerer_dark_conversion.dds",
+    "ability_sorcerer_dark_deal.dds",
+    "ability_sorcerer_dark_exchange.dds",
+    "ability_sorcerer_daedric_minefield.dds",
+    "ability_sorcerer_daedric_mines.dds",
+    "ability_sorcerer_daedric_tomb.dds",
 
     -- Nightblade - Assassination - @Kyzeragon
     "ability_nightblade_002.dds", -- Veiled Strike
