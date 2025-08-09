@@ -252,7 +252,7 @@ local ABILITY_ICONS = {
     -- "ability_templar_channeled_focus.dds",
     -- "ability_templar_uninterrupted_focus.dds", -- Restoring Focus
 
-    -- Warden - Winter's Embrace
+    -- Warden - Winter's Embrace - @M0R_Gaming
     -- "ability_warden_001.dds",
     -- "ability_warden_001_a.dds",
     -- "ability_warden_001_b.dds",
@@ -268,9 +268,9 @@ local ABILITY_ICONS = {
     -- "ability_warden_005.dds",
     -- "ability_warden_005_a.dds",
     -- "ability_warden_005_b.dds",
-    -- "ability_warden_006.dds",
-    -- "ability_warden_006_a.dds",
-    -- "ability_warden_006_b.dds",
+    "ability_warden_006.dds", -- Sleet Storm
+    "ability_warden_006_a.dds",
+    "ability_warden_006_b.dds",
 
     -- Warden - Green Balance
     -- "ability_warden_007.dds",
