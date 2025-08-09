@@ -192,16 +192,16 @@ local ABILITY_ICONS = {
     -- "ability_nightblade_018_a.dds",
     -- "ability_nightblade_018_b.dds",
 
-    -- Templar - Aedric Spear
-    -- "ability_templar_radial_sweep.dds",
-    -- "ability_templar_crescent_sweep.dds",
-    -- "ability_templar_empowering_sweep.dds", -- Everlasting Sweep
-    -- "ability_templar_trained_attacker.dds", -- Puncturing Strikes
-    -- "ability_templar_reckless_attacks.dds", -- Puncturing Sweep
-    -- "ability_templar_recovery.dds", -- Biting Jabs
-    -- "ability_templar_returning_spear.dds", -- Piercing Javelin
-    -- "ability_templar_light_spear.dds", -- Binding Javelin
-    -- "ability_templar_ripping_spear.dds", -- Aurora Javelin
+    -- Templar - Aedric Spear - @camrenis
+    "ability_templar_radial_sweep.dds",
+    "ability_templar_crescent_sweep.dds",
+    "ability_templar_empowering_sweep.dds", -- Everlasting Sweep
+    "ability_templar_trained_attacker.dds", -- Puncturing Strikes
+    "ability_templar_reckless_attacks.dds", -- Puncturing Sweep
+    "ability_templar_recovery.dds", -- Biting Jabs
+    "ability_templar_returning_spear.dds", -- Piercing Javelin
+    "ability_templar_light_spear.dds", -- Binding Javelin
+    "ability_templar_ripping_spear.dds", -- Aurora Javelin
     -- "ability_templar_focused_charge.dds",
     -- "ability_templar_double_tipped_charge.dds", -- Explosive Charge
     -- "ability_templar_toppling_charge.dds",
