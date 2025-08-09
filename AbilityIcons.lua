@@ -232,25 +232,25 @@ local ABILITY_ICONS = {
     "ability_templar_stendarr_aura.dds", -- Radiant Oppression
     "ability_templar_under_exposure.dds", -- Radiant Glory
 
-    -- Templar - Restoring Light
-    -- "ability_templar_rite_of_passage.dds",
-    -- "ability_templar_remembrance.dds",
-    -- "ability_templar_practiced_incantation.dds",
-    -- "ability_templar_rushed_ceremony.dds",
-    -- "ability_templar_breath_of_life.dds",
-    -- "ability_templar_honor_the_dead.dds",
-    -- "ability_templar_healing_ritual.dds",
-    -- "ability_templar_lingering_ritual.dds", -- Hasty Prayer
-    -- "ability_templar_ritual_of_rebirth.dds",
-    -- "ability_templar_restoring_sigil.dds", -- Restoring Aura
-    -- "ability_templar_life_giving_sigil.dds", -- Radiant Aura
-    -- "ability_templar_persistant_sigil.dds", -- Repentance
-    -- "ability_templar_cleansing_ritual.dds",
-    -- "ability_templar_extended_ritual.dds",
-    -- "ability_templar_purifying_ritual.dds", -- Ritual of Retribution
-    -- "ability_templar_rune_focus.dds",
-    -- "ability_templar_channeled_focus.dds",
-    -- "ability_templar_uninterrupted_focus.dds", -- Restoring Focus
+    -- Templar - Restoring Light - @BirdSalad
+    "ability_templar_rite_of_passage.dds",
+    "ability_templar_remembrance.dds",
+    "ability_templar_practiced_incantation.dds",
+    "ability_templar_rushed_ceremony.dds",
+    "ability_templar_breath_of_life.dds",
+    "ability_templar_honor_the_dead.dds",
+    "ability_templar_healing_ritual.dds",
+    "ability_templar_lingering_ritual.dds", -- Hasty Prayer
+    "ability_templar_ritual_of_rebirth.dds",
+    "ability_templar_restoring_sigil.dds", -- Restoring Aura
+    "ability_templar_life_giving_sigil.dds", -- Radiant Aura
+    "ability_templar_persistant_sigil.dds", -- Repentance
+    "ability_templar_cleansing_ritual.dds",
+    "ability_templar_extended_ritual.dds",
+    "ability_templar_purifying_ritual.dds", -- Ritual of Retribution
+    "ability_templar_rune_focus.dds",
+    "ability_templar_channeled_focus.dds",
+    "ability_templar_uninterrupted_focus.dds", -- Restoring Focus
 
     -- Warden - Winter's Embrace - @M0R_Gaming
     -- "ability_warden_001.dds",
