@@ -470,18 +470,18 @@ local ABILITY_ICONS = {
     "ability_destructionstaff_011.dds", -- Weakness to Elements
     "ability_destructionstaff_011a.dds",
     "ability_destructionstaff_011b.dds",
-    -- "ability_destructionstaff_012.dds",
-    -- "ability_destructionstaff_012_a.dds",
-    -- "ability_destructionstaff_012_b.dds",
-    -- "ability_destructionstaff_013.dds",
-    -- "ability_destructionstaff_013_a.dds",
-    -- "ability_destructionstaff_013_b.dds",
-    -- "ability_destructionstaff_014.dds",
-    -- "ability_destructionstaff_014_a.dds",
-    -- "ability_destructionstaff_014_b.dds",
-    -- "ability_destructionstaff_015.dds",
-    -- "ability_destructionstaff_015_a.dds",
-    -- "ability_destructionstaff_015_b.dds",
+    "ability_destructionstaff_012.dds", -- "magic" destro
+    "ability_destructionstaff_012_a.dds",
+    "ability_destructionstaff_012_b.dds",
+    "ability_destructionstaff_013.dds", -- Inferno destro
+    "ability_destructionstaff_013_a.dds",
+    "ability_destructionstaff_013_b.dds",
+    "ability_destructionstaff_014.dds", -- Ice destro
+    "ability_destructionstaff_014_a.dds",
+    "ability_destructionstaff_014_b.dds",
+    "ability_destructionstaff_015.dds", -- Lightning destro
+    "ability_destructionstaff_015_a.dds",
+    "ability_destructionstaff_015_b.dds",
 
     -- 2H
     -- "ability_2handed_001.dds",
