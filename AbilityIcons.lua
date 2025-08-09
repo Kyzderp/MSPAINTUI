@@ -584,18 +584,18 @@ local ABILITY_ICONS = {
     -- "ability_restorationstaff_006_b.dds",
 
     -- Fighters Guild - @QueuesAsTanks
-    -- "ability_fightersguild_001.dds",
-    -- "ability_fightersguild_001_a.dds",
-    -- "ability_fightersguild_001_b.dds",
+    "ability_fightersguild_001.dds", -- Circle
+    "ability_fightersguild_001_a.dds",
+    "ability_fightersguild_001_b.dds",
     -- "ability_fightersguild_002.dds",
     -- "ability_fightersguild_002_a.dds",
     -- "ability_fightersguild_002_b.dds",
-    -- "ability_fightersguild_003.dds",
-    -- "ability_fightersguild_003_a.dds",
-    -- "ability_fightersguild_003_b.dds",
-    -- "ability_fightersguild_004.dds",
-    -- "ability_fightersguild_004_a.dds",
-    -- "ability_fightersguild_004_b.dds",
+    "ability_fightersguild_003.dds", -- Silver
+    "ability_fightersguild_003_a.dds",
+    "ability_fightersguild_003_b.dds",
+    "ability_fightersguild_004.dds", -- Trap
+    "ability_fightersguild_004_a.dds",
+    "ability_fightersguild_004_b.dds",
     "ability_fightersguild_005.dds", -- Dawnbreaker
     "ability_fightersguild_005_a.dds",
     "ability_fightersguild_005_b.dds",
