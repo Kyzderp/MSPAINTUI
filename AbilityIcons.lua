@@ -701,9 +701,9 @@ local ABILITY_ICONS = {
     -- "ability_u26_vampire_01.dds",
     -- "ability_u26_vampire_01_a.dds",
     -- "ability_u26_vampire_01_b.dds",
-    -- "ability_u26_vampire_02.dds",
-    -- "ability_u26_vampire_02_a.dds",
-    -- "ability_u26_vampire_02_b.dds",
+    "ability_u26_vampire_02.dds", -- Blood Frenzy
+    "ability_u26_vampire_02_a.dds",
+    "ability_u26_vampire_02_b.dds",
     "ability_u26_vampire_03.dds", -- Vampiric Drain
     "ability_u26_vampire_03_a.dds",
     "ability_u26_vampire_03_b.dds",
