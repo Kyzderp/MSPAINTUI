@@ -115,10 +115,10 @@ local ABILITY_ICONS = {
     "ability_sorcerer_crushing_monsoon.dds", -- Suppression Field
     "ability_sorcerer_rushing_winds.dds", -- Absorption Field
     "ability_sorcerer_crystalweapon.dds",
-    -- "ability_sorcerer_thunder_burst.dds", -- unsure what this is, looks like base frags with more lightning
+    "ability_sorcerer_thunder_burst.dds", -- unsure what this is, might've been crystal blast
     "ability_sorcerer_thunderclap.dds", -- Crystal Shard
     "ability_sorcerer_thunderstomp.dds", -- Crystal Fragments
-    -- "ability_sorcerer_thunderstomp_proc.dds",
+    "ability_sorcerer_thunderstomp_proc.dds",
     "ability_sorcerer_cyclone.dds", -- Encase
     "ability_sorcerer_crushing_winds.dds", -- Vibrant Shroud
     "ability_sorcerer_twister.dds", -- Shattering Spines
