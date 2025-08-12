@@ -21,6 +21,7 @@ local ABILITY_ICONS = {
     "ability_dragonknight_006.dds",
     "ability_dragonknight_006_a.dds",
     "ability_dragonknight_006_b.dds",
+    "ability_warrior_025.dds", -- Whip proc
 
     -- Dragonknight - Draconic Power
     -- "ability_dragonknight_007.dds",
@@ -654,19 +655,19 @@ local ABILITY_ICONS = {
     -- "ability_undaunted_005a.dds",
     -- "ability_undaunted_005b.dds",
 
-    -- Assault - @SuddenGhost24
+    -- Assault
     -- "ability_ava_001.dds",
     -- "ability_ava_001_a.dds",
     -- "ability_ava_001_b.dds",
     -- "ability_ava_002.dds",
     -- "ability_ava_002_a.dds",
     -- "ability_ava_002_b.dds",
-    "ability_ava_003.dds", -- War Horn
+    "ability_ava_003.dds", -- War Horn - @SuddenGhost24
     "ability_ava_003_a.dds",
     "ability_ava_003_b.dds",
     -- "ability_ava_echoing_vigor.dds",
     -- "ability_ava_vigor.dds",
-    -- "ability_ava_resolving_vigor.dds",
+    "ability_ava_resolving_vigor.dds", -- @BirdSalad
     -- "ability_ava_inevitable_detonation.dds",
     -- "ability_ava_magicka_detonation.dds",
     -- "ability_ava_proximity_detonation.dds",
