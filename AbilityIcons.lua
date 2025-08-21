@@ -337,13 +337,13 @@ local ABILITY_ICONS = {
     "ability_necromancer_006_a.dds",
     "ability_necromancer_006_b.dds",
 
-    -- Necro - Bone Tyrant
-    -- "ability_necromancer_007.dds",
-    -- "ability_necromancer_007_a.dds",
-    -- "ability_necromancer_007_b.dds",
-    -- "ability_necromancer_008.dds",
-    -- "ability_necromancer_008_a.dds",
-    -- "ability_necromancer_008_b.dds",
+    -- Necro - Bone Tyrant - @BirdSalad
+    "ability_necromancer_007.dds",
+    "ability_necromancer_007_a.dds",
+    "ability_necromancer_007_b.dds",
+    "ability_necromancer_008.dds",
+    "ability_necromancer_008_a.dds",
+    "ability_necromancer_008_b.dds",
     -- "ability_necromancer_009.dds",
     -- "ability_necromancer_009_a.dds",
     -- "ability_necromancer_009_b.dds",
@@ -353,9 +353,9 @@ local ABILITY_ICONS = {
     -- "ability_necromancer_011.dds",
     -- "ability_necromancer_011_a.dds",
     -- "ability_necromancer_011_b.dds",
-    -- "ability_necromancer_012.dds",
-    -- "ability_necromancer_012_a.dds",
-    -- "ability_necromancer_012_b.dds",
+    "ability_necromancer_012.dds",
+    "ability_necromancer_012_a.dds",
+    "ability_necromancer_012_b.dds",
 
     -- Necro - Living Death
     -- "ability_necromancer_013.dds",
