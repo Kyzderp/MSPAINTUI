@@ -740,16 +740,16 @@ local ABILITY_ICONS = {
     "ability_werewolf_006_b.dds",
     "ability_werewolf_006_c.dds",
 
-    -- Armor
-    -- "ability_armor_001.dds",
-    -- "ability_armor_001_a.dds",
-    -- "ability_armor_001_b.dds",
-    -- "ability_armor_002.dds",
-    -- "ability_armor_002_a.dds",
-    -- "ability_armor_002_b.dds",
-    -- "ability_armor_003.dds",
-    -- "ability_armor_003_a.dds",
-    -- "ability_armor_003_b.dds",
+    -- Armor - @Thepinja
+    "ability_armor_001.dds",
+    "ability_armor_001_a.dds",
+    "ability_armor_001_b.dds",
+    "ability_armor_002.dds",
+    "ability_armor_002_a.dds",
+    "ability_armor_002_b.dds",
+    "ability_armor_003.dds",
+    "ability_armor_003_a.dds",
+    "ability_armor_003_b.dds",
 
     -- Scribing
     "ability_grimoire_support.dds",
