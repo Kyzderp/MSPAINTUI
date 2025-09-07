@@ -294,25 +294,26 @@ local ABILITY_ICONS = {
     -- "ability_warden_012_a.dds",
     -- "ability_warden_012_b.dds",
 
-    -- Warden - Animal Companions
-    -- "ability_warden_013.dds",
-    -- "ability_warden_013_a.dds",
-    -- "ability_warden_013_b.dds",
+    -- Warden - Animal Companions - @BirdSalad
+    "ability_warden_013.dds", -- Dive
+    "ability_warden_013_a.dds",
+    "ability_warden_013_b.dds",
     -- "ability_warden_014.dds",
     -- "ability_warden_014_a.dds",
     -- "ability_warden_014_b.dds",
-    -- "ability_warden_015.dds",
-    -- "ability_warden_015_a.dds",
-    -- "ability_warden_015_b.dds",
+    "ability_warden_015.dds", -- Shalks
+    "ability_warden_015_a.dds",
+    "ability_warden_015_b.dds",
     -- "ability_warden_016.dds",
     -- "ability_warden_016_a.dds",
     -- "ability_warden_016_b.dds",
     -- "ability_warden_017.dds",
     -- "ability_warden_017_a.dds",
     -- "ability_warden_017_b.dds",
-    -- "ability_warden_018.dds",
-    -- "ability_warden_018_b.dds",
-    -- "ability_warden_018_c.dds",
+    "ability_warden_018.dds", -- Bear
+    "ability_warden_018_a.dds", -- active swipe
+    "ability_warden_018_b.dds",
+    "ability_warden_018_c.dds",
 
     -- Necro - Grave Lord - @BirdSalad
     "ability_necromancer_001.dds",
