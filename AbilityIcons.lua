@@ -619,13 +619,13 @@ local ABILITY_ICONS = {
     -- "ability_mageguild_005_a.dds",
     -- "ability_mageguild_005_b.dds",
 
-    -- Psijic
-    -- "ability_psijic_001.dds",
-    -- "ability_psijic_001_a.dds",
-    -- "ability_psijic_001_b.dds",
-    -- "ability_psijic_002.dds",
-    -- "ability_psijic_002_a.dds",
-    -- "ability_psijic_002_b.dds",
+    -- Psijic - @Eashi
+    "ability_psijic_001.dds", -- Undo
+    "ability_psijic_001_a.dds",
+    "ability_psijic_001_b.dds",
+    "ability_psijic_002.dds", -- Time Stop
+    "ability_psijic_002_a.dds",
+    "ability_psijic_002_b.dds",
     -- "ability_psijic_003.dds",
     -- "ability_psijic_003_a.dds",
     -- "ability_psijic_003_b.dds",
