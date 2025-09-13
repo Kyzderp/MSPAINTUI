@@ -16,7 +16,7 @@ local function Initialize()
     RedirectTexture("/esoui/art/progression/skillstyling_default_up.dds", "MSPAINTUI/art/ui/skillstyling_default_up.dds")
     RedirectTexture("/esoui/art/miscellaneous/progressbar_frame.dds", "MSPAINTUI/art/ui/progressbar_frame.dds")
     RedirectTexture("/esoui/art/miscellaneous/scrollbox_elevator.dds", "MSPAINTUI/art/ui/scrollbox_elevator.dds")
-    RedirectTexture("/esoui/art/unitattributevisualizer/attributebar_dynamic_frame.dds", "MSPAINTUI/art/ui/attributebar_dynamic_frame.dds")
+    -- RedirectTexture("/esoui/art/unitattributevisualizer/attributebar_dynamic_frame.dds", "MSPAINTUI/art/ui/attributebar_dynamic_frame.dds")
 end
 
 
