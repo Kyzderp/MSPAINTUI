@@ -149,9 +149,9 @@ local ABILITY_ICONS = {
     "ability_nightblade_014.dds", -- Mark Target
     "ability_nightblade_014_a.dds",
     "ability_nightblade_014_b.dds",
-    -- "ability_nightblade_017.dds", -- Assassin's Blade
-    -- "ability_nightblade_017_a.dds",
-    -- "ability_nightblade_017_b.dds",
+    "ability_nightblade_017.dds", -- Assassin's Blade
+    "ability_nightblade_017_a.dds",
+    "ability_nightblade_017_b.dds",
 
     -- Nightblade - Shadow
     -- "ability_nightblade_001.dds", -- Shade
