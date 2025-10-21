@@ -143,9 +143,9 @@ local ABILITY_ICONS = {
     "ability_nightblade_007_a.dds", -- Incap
     "ability_nightblade_007_b.dds", -- Soul Harvest
     "ability_nightblade_007_c.dds", -- Incap green
-    -- "ability_nightblade_008.dds", -- Teleport Strike
-    -- "ability_nightblade_008_a.dds",
-    -- "ability_nightblade_008_b.dds",
+    "ability_nightblade_008.dds", -- Teleport Strike
+    "ability_nightblade_008_a.dds",
+    "ability_nightblade_008_b.dds",
     "ability_nightblade_014.dds", -- Mark Target
     "ability_nightblade_014_a.dds",
     "ability_nightblade_014_b.dds",
