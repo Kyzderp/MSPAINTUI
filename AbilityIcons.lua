@@ -717,7 +717,7 @@ local ABILITY_ICONS = {
         "ability_ava_revealing_flare.dds",
         "ability_ava_scorching_flare.dds",
         "ability_grimoire_support.dds", -- @BirdSalad
-    }
+    },
 
     ["World"] = {
         -- Soul Magic
@@ -790,8 +790,10 @@ local ABILITY_ICONS = {
 
 local function RedirectAbilityTextures()
     for groupName, group in pairs(ABILITY_ICONS) do
-        for _, iconPath in ipairs(group) do
-            RedirectTexture("/esoui/art/icons/" .. iconPath, "MSPAINTUI/art/abilities/" .. iconPath)
+        if (MSP.savedOptions.enable[groupName]) then
+            for _, iconPath in ipairs(group) do
+                RedirectTexture("/esoui/art/icons/" .. iconPath, "MSPAINTUI/art/abilities/" .. iconPath)
+            end
         end
     end
 end
