@@ -787,6 +787,7 @@ local ABILITY_ICONS = {
         "ability_armor_003_b.dds",
     },
 }
+MSP.ABILITY_ICONS = ABILITY_ICONS
 
 local function RedirectAbilityTextures()
     for groupName, group in pairs(ABILITY_ICONS) do
