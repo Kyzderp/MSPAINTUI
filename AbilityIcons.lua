@@ -153,22 +153,22 @@ local ABILITY_ICONS = {
     "ability_nightblade_017_a.dds",
     "ability_nightblade_017_b.dds",
 
-    -- Nightblade - Shadow
+    -- Nightblade - Shadow - @Kyzeragon
     -- "ability_nightblade_001.dds", -- Shade
     -- "ability_nightblade_001_a.dds",
     -- "ability_nightblade_001_b.dds",
-    -- "ability_nightblade_004.dds", -- Shadow Cloak
-    -- "ability_nightblade_004_a.dds",
-    -- "ability_nightblade_004_b.dds",
+    "ability_nightblade_004.dds", -- Shadow Cloak
+    "ability_nightblade_004_a.dds",
+    "ability_nightblade_004_b.dds",
     -- "ability_nightblade_009.dds", -- Blur
     -- "ability_nightblade_009_a.dds",
     -- "ability_nightblade_009_b.dds",
     -- "ability_nightblade_010.dds", -- Path
     -- "ability_nightblade_010_a.dds",
     -- "ability_nightblade_010_b.dds",
-    -- "ability_nightblade_015.dds", -- Consuming Darkness
-    -- "ability_nightblade_015_a.dds",
-    -- "ability_nightblade_015_b.dds",
+    "ability_nightblade_015.dds", -- Consuming Darkness
+    "ability_nightblade_015_a.dds",
+    "ability_nightblade_015_b.dds",
     -- "ability_nightblade_016.dds", -- Aspect of Terror
     -- "ability_nightblade_016_a.dds",
     -- "ability_nightblade_016_b.dds",
