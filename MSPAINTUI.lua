@@ -1,12 +1,34 @@
-MSPAINTUI = MSPAINTUI or {}
+MSPAINTUI = {
+    name = "MSPAINTUI",
+    version = "0.0.0",
+}
 local MSP = MSPAINTUI
-MSP.name = "MSPAINTUI"
-MSP.version = "0.0.0"
+
+local defaultOptions = {
+    enable = {
+        ui = true,
+        ["Dragonknight"] = true,
+        ["Sorcerer"] = true,
+        ["Nightblade"] = true,
+        ["Templar"] = true,
+        ["Warden"] = true,
+        ["Necromancer"] = true,
+        ["Arcanist"] = true,
+        ["Weapon"] = true,
+        ["Armor"] = true,
+        ["World"] = true,
+        ["Guild"] = true,
+        ["Alliance War"] = true,
+    },
+}
 
 ---------------------------------------------------------------------
 -- Initialize
 ---------------------------------------------------------------------
 local function Initialize()
+    MSP.savedOptions = ZO_SavedVars:NewAccountWide("MSPAINTUISavedVariables", 1, "Options", defaultOptions)
+    MSP.CreateSettingsMenu()
+
     MSP.RedirectAbilityTextures()
 
     RedirectTexture("/esoui/art/actionbar/abilityframe64_up.dds", "MSPAINTUI/art/ui/abilityframe64_up.dds")

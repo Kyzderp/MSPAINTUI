@@ -1,4 +1,3 @@
-MSPAINTUI = MSPAINTUI or {}
 local MSP = MSPAINTUI
 
 local ABILITY_ICONS = {

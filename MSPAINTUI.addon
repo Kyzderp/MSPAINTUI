@@ -1,8 +1,11 @@
 ## Title: MSPAINTUI
+## Description: Modern Streamlined Perfectly Acceptable Intuitive Natural Tasteful UI
 ## Author: Kyzeragon, BirdSalad, Eashi, Thepinja
 ## Version: 0.0.0
 ## AddOnVersion: 0
 ## APIVersion: 101046
+## DependsOn: LibAddonMenu-2.0>=41
+## SavedVariables: MSPAINTUISavedVariables
 
 # Credits:
 # @Kyzeragon - Coding + Compilation, UI, Herald of the Tome, Assassination, Shadow
@@ -16,5 +19,6 @@
 # @M0R_Gaming - Winter's Embrace
 # @SuddenGhost24 - War Horn & morphs
 
-AbilityIcons.lua
 MSPAINTUI.lua
+Settings.lua
+AbilityIcons.lua
