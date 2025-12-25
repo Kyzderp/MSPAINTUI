@@ -14,7 +14,7 @@ local function CreateSettingsMenu()
     local optionsData = {
         {
             type = "description",
-            text = "Note: You will likely need to fully restart your game (not just reload!) in order to see changes reflected, when you turn off some options.",
+            text = "Note: When you turn off any options, You will need to fully restart your game (not just reload!) in order to see the changes reflected. Reloading should work if you are only turning them on.",
             width = "full",
         },
         {
