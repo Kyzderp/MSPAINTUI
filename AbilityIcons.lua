@@ -262,9 +262,9 @@ local ABILITY_ICONS = {
 
     ["Warden"] = {
         -- Warden - Winter's Embrace - @M0R_Gaming
-        -- "ability_warden_001.dds",
-        -- "ability_warden_001_a.dds",
-        -- "ability_warden_001_b.dds",
+        "ability_warden_001.dds", -- Frost Cloak
+        "ability_warden_001_a.dds",
+        "ability_warden_001_b.dds",
         "ability_warden_002.dds", -- Crystallized Shield
         "ability_warden_002_a.dds",
         "ability_warden_002_b.dds",
