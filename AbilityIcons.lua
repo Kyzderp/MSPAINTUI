@@ -177,25 +177,25 @@ local ABILITY_ICONS = {
         -- "ability_nightblade_016_a.dds",
         -- "ability_nightblade_016_b.dds",
 
-        -- Nightblade - Siphoning
-        -- "ability_nightblade_003.dds", -- Siphoning Strikes
-        -- "ability_nightblade_003_a.dds",
-        -- "ability_nightblade_003_b.dds",
-        -- "ability_nightblade_006.dds", -- Cripple
-        -- "ability_nightblade_006_a.dds",
-        -- "ability_nightblade_006_b.dds",
-        -- "ability_nightblade_011.dds", -- Offering
-        -- "ability_nightblade_011_a.dds",
-        -- "ability_nightblade_011_b.dds",
-        -- "ability_nightblade_012.dds", -- Strife
-        -- "ability_nightblade_012_a.dds",
-        -- "ability_nightblade_012_b.dds",
-        -- "ability_nightblade_013.dds", -- Drain Power
-        -- "ability_nightblade_013_a.dds",
-        -- "ability_nightblade_013_b.dds",
-        -- "ability_nightblade_018.dds", -- Soul Shred
-        -- "ability_nightblade_018_a.dds",
-        -- "ability_nightblade_018_b.dds",
+        -- Nightblade - Siphoning - @Lykeion
+        "ability_nightblade_003.dds", -- Siphoning Strikes
+        "ability_nightblade_003_a.dds",
+        "ability_nightblade_003_b.dds",
+        "ability_nightblade_006.dds", -- Cripple
+        "ability_nightblade_006_a.dds",
+        "ability_nightblade_006_b.dds",
+        "ability_nightblade_011.dds", -- Offering
+        "ability_nightblade_011_a.dds",
+        "ability_nightblade_011_b.dds",
+        "ability_nightblade_012.dds", -- Strife
+        "ability_nightblade_012_a.dds",
+        "ability_nightblade_012_b.dds",
+        "ability_nightblade_013.dds", -- Drain Power
+        "ability_nightblade_013_a.dds",
+        "ability_nightblade_013_b.dds",
+        "ability_nightblade_018.dds", -- Soul Shred
+        "ability_nightblade_018_a.dds",
+        "ability_nightblade_018_b.dds",
     },
 
     ["Templar"] = {
