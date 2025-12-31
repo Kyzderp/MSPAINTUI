@@ -584,7 +584,7 @@ local ABILITY_ICONS = {
         "ability_dualwield_006_b.dds",
         "ability_grimoire_dualwield.dds", -- @BirdSalad
 
-        -- Resto
+        -- Resto - @cfblack
         -- "ability_restorationstaff_001.dds",
         -- "ability_restorationstaff_001_a.dds",
         -- "ability_restorationstaff_001_b.dds",
@@ -600,9 +600,9 @@ local ABILITY_ICONS = {
         -- "ability_restorationstaff_005.dds",
         -- "ability_restorationstaff_005_a.dds",
         -- "ability_restorationstaff_005_b.dds",
-        -- "ability_restorationstaff_006.dds",
-        -- "ability_restorationstaff_006_a.dds",
-        -- "ability_restorationstaff_006_b.dds",
+        "ability_restorationstaff_006.dds", -- Panacea
+        "ability_restorationstaff_006_a.dds",
+        "ability_restorationstaff_006_b.dds",
         -- "ability_grimoire_staffresto.dds",
     },
 
