@@ -167,9 +167,9 @@ local ABILITY_ICONS = {
         -- "ability_nightblade_009.dds", -- Blur
         -- "ability_nightblade_009_a.dds",
         -- "ability_nightblade_009_b.dds",
-        -- "ability_nightblade_010.dds", -- Path
-        -- "ability_nightblade_010_a.dds",
-        -- "ability_nightblade_010_b.dds",
+        "ability_nightblade_010.dds", -- Path
+        "ability_nightblade_010_a.dds",
+        "ability_nightblade_010_b.dds",
         "ability_nightblade_015.dds", -- Consuming Darkness
         "ability_nightblade_015_a.dds",
         "ability_nightblade_015_b.dds",
