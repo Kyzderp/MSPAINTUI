@@ -22,6 +22,24 @@ local defaultOptions = {
     },
 }
 
+
+---------------------------------------------------------------------
+-- Optional AbilityIconsFramework if it exists
+local function InitializeWithAIF()
+    local icons = {}
+
+    for groupName, group in pairs(MSP.ABILITY_ICONS) do
+        if (MSP.savedOptions.enable[groupName]) then
+            for _, iconPath in ipairs(group) do
+                table.insert(icons, iconPath)
+            end
+        end
+    end
+
+    AbilityIconsFramework.AddCustomIconPack("/MSPAINTUI/art/abilities/", icons)
+end
+
+
 ---------------------------------------------------------------------
 -- Initialize
 ---------------------------------------------------------------------
@@ -29,7 +47,11 @@ local function Initialize()
     MSP.savedOptions = ZO_SavedVars:NewAccountWide("MSPAINTUISavedVariables", 1, "Options", defaultOptions)
     MSP.CreateSettingsMenu()
 
-    MSP.RedirectAbilityTextures()
+    if (AbilityIconsFramework) then
+        InitializeWithAIF()
+    else
+        MSP.RedirectAbilityTextures()
+    end
 
     if (MSP.savedOptions.enable.ui) then
         RedirectTexture("/esoui/art/actionbar/abilityframe64_up.dds", "MSPAINTUI/art/ui/abilityframe64_up.dds")

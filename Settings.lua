@@ -14,7 +14,12 @@ local function CreateSettingsMenu()
     local optionsData = {
         {
             type = "description",
-            text = "Note: When you turn off any options, You will need to fully restart your game (not just reload!) in order to see the changes reflected. Reloading should work if you are only turning them on.",
+            text = function()
+                if (AbilityIconsFramework) then
+                    return "Note: Since you are using Ability Icons Framework, changes to these settings will only take effect after you reload/restart your game."
+                end
+                return "Note: When you turn off any options, you will need to fully restart your game (not just reload!) in order to see the changes reflected. Reloading should work if you are only turning them on."
+            end,
             width = "full",
         },
         {
@@ -38,6 +43,10 @@ local function CreateSettingsMenu()
                 MSP.savedOptions.enable.ui = value
             end,
             width = "full",
+        },
+        {
+            type = "divider",
+            width = "half",
         },
     }
 

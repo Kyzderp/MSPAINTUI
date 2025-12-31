@@ -5,6 +5,7 @@
 ## AddOnVersion: 100
 ## APIVersion: 101048
 ## DependsOn: LibAddonMenu-2.0>=41
+## OptionalDependsOn: AbilityIconsFramework
 ## SavedVariables: MSPAINTUISavedVariables
 
 # Credits:
