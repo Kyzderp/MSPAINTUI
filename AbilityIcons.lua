@@ -720,15 +720,15 @@ local ABILITY_ICONS = {
     },
 
     ["World"] = {
-        -- Soul Magic
-        -- "ability_otherclass_001.dds",
-        -- "ability_otherclass_001_a.dds",
-        -- "ability_otherclass_001_b.dds",
-        -- "ability_otherclass_002.dds",
-        -- "ability_otherclass_002_a.dds",
-        -- "ability_otherclass_002_b.dds",
-        -- "ability_grimoire_soulmagic1.dds",
-        -- "ability_grimoire_soulmagic2.dds",
+        -- Soul Magic - @Thepinja
+        "ability_otherclass_001.dds",
+        "ability_otherclass_001_a.dds",
+        "ability_otherclass_001_b.dds",
+        "ability_otherclass_002.dds",
+        "ability_otherclass_002_a.dds",
+        "ability_otherclass_002_b.dds",
+        "ability_grimoire_soulmagic1.dds",
+        "ability_grimoire_soulmagic2.dds",
 
         -- Vampire - @SpookaSpooka
         -- "ability_u26_vampire_01.dds",

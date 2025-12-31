@@ -87,12 +87,14 @@ local function CreateSettingsMenu()
 @Kyzeragon - Coding + Compilation, UI, Herald of the Tome, Assassination, Shadow
 @BirdSalad - Grave Lord, Dawn's Wrath, Dual Wield, Ardent Flame, Support, Restoring Light, Resolving Vigor, Bone Tyrant, Animal Companions
 @Eashi - Destruction Staff, Trample, Psijic Order
-@Thepinja - Daedric Summoning, Storm Calling, Dark Magic, Armor
+@Thepinja - Daedric Summoning, Storm Calling, Dark Magic, Armor, Soul Magic
 @Plonkerr - Werewolf
+@Lykeion - Siphoning
 @SpookaSpooka - Vampire
 @camrenis - Aedric Spear
 @QueuesAsTanks - Fighters Guild
 @M0R_Gaming - Winter's Embrace
+@cfblack - Restoration
 @SuddenGhost24 - War Horn & morphs
 ]],
         width = "full",
