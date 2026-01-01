@@ -500,16 +500,16 @@ local ABILITY_ICONS = {
         "ability_destructionstaff_015_b.dds",
         -- "ability_grimoire_staffdestro.dds",
 
-        -- 2H
-        -- "ability_2handed_001.dds",
-        -- "ability_2handed_001_a.dds",
-        -- "ability_2handed_001_b.dds",
-        -- "ability_2handed_002.dds",
-        -- "ability_2handed_002_a.dds",
-        -- "ability_2handed_002_b.dds",
-        -- "ability_2handed_003.dds",
-        -- "ability_2handed_003_a.dds",
-        -- "ability_2handed_003_b.dds",
+        -- 2H - @t.ea
+        "ability_2handed_001.dds", -- Uppercut
+        "ability_2handed_001_a.dds",
+        "ability_2handed_001_b.dds",
+        "ability_2handed_002.dds", -- Cleave
+        "ability_2handed_002_a.dds",
+        "ability_2handed_002_b.dds",
+        "ability_2handed_003.dds", -- Critical Charge
+        "ability_2handed_003_a.dds",
+        "ability_2handed_003_b.dds",
         -- "ability_2handed_004.dds",
         -- "ability_2handed_004_a.dds",
         -- "ability_2handed_004_b.dds",
