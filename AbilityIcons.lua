@@ -368,7 +368,7 @@ local ABILITY_ICONS = {
         "ability_necromancer_012_a.dds",
         "ability_necromancer_012_b.dds",
 
-        -- Necro - Living Death
+        -- Necro - Living Death - @BirdSalad
         -- "ability_necromancer_013.dds",
         -- "ability_necromancer_013_a.dds",
         -- "ability_necromancer_013_b.dds",
@@ -384,9 +384,9 @@ local ABILITY_ICONS = {
         -- "ability_necromancer_017.dds",
         -- "ability_necromancer_017_a.dds",
         -- "ability_necromancer_017_b.dds",
-        -- "ability_necromancer_018.dds",
-        -- "ability_necromancer_018_a.dds",
-        -- "ability_necromancer_018_b.dds",
+        "ability_necromancer_018.dds", -- Reanimate
+        "ability_necromancer_018_a.dds",
+        "ability_necromancer_018_b.dds",
     },
 
     ["Arcanist"] = {
