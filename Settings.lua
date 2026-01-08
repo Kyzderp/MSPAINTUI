@@ -23,15 +23,6 @@ local function CreateSettingsMenu()
             width = "full",
         },
         {
-            type = "button",
-            name = "Preview icons",
-            tooltip = "Shows a window with all of the available icons",
-            func = function()
-                MSP.PreviewIcons()
-            end,
-            width = "full",
-        },
-        {
             type = "checkbox",
             name = "UI textures",
             tooltip = "Use Paint textures for some UI elements",
@@ -49,6 +40,18 @@ local function CreateSettingsMenu()
             width = "half",
         },
     }
+
+    if (not IsConsoleUI()) then
+        table.insert(optionsData, 2, {
+            type = "button",
+            name = "Preview icons",
+            tooltip = "Shows a window with all of the available icons",
+            func = function()
+                MSP.PreviewIcons()
+            end,
+            width = "full",
+        })
+    end
 
     local optionsOrder = {
         "Dragonknight",
