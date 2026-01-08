@@ -369,12 +369,12 @@ local ABILITY_ICONS = {
         "ability_necromancer_012_b.dds",
 
         -- Necro - Living Death - @BirdSalad
-        -- "ability_necromancer_013.dds",
-        -- "ability_necromancer_013_a.dds",
-        -- "ability_necromancer_013_b.dds",
-        -- "ability_necromancer_014.dds",
-        -- "ability_necromancer_014_a.dds",
-        -- "ability_necromancer_014_b.dds",
+        "ability_necromancer_013.dds", -- Render Flesh
+        "ability_necromancer_013_a.dds",
+        "ability_necromancer_013_b.dds",
+        "ability_necromancer_014.dds", -- Expunge
+        "ability_necromancer_014_a.dds",
+        "ability_necromancer_014_b.dds",
         -- "ability_necromancer_015.dds",
         -- "ability_necromancer_015_a.dds",
         -- "ability_necromancer_015_b.dds",
