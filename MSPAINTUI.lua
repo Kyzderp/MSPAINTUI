@@ -63,8 +63,8 @@ local function Initialize()
         RedirectTexture("/esoui/art/miscellaneous/progressbar_frame.dds", "MSPAINTUI/art/ui/progressbar_frame.dds")
 
         RedirectTexture("/esoui/art/miscellaneous/scrollbox_elevator.dds", "MSPAINTUI/art/ui/scrollbox_elevator.dds")
-        RedirectTexture("/esoui/art/miscellaneous/scrollbox_downarrow_up.dds", "MSPAINTUI/art/ui/scrollbox_downarrow_up.dds")
-        RedirectTexture("/esoui/art/miscellaneous/scrollbox_uparrow_up.dds", "MSPAINTUI/art/ui/scrollbox_uparrow_up.dds")
+        RedirectTexture("/esoui/art/buttons/scrollbox_downarrow_up.dds", "MSPAINTUI/art/ui/scrollbox_downarrow_up.dds")
+        RedirectTexture("/esoui/art/buttons/scrollbox_uparrow_up.dds", "MSPAINTUI/art/ui/scrollbox_uparrow_up.dds")
 
         RedirectTexture("/esoui/art/characterwindow/swap_button_up.dds", "MSPAINTUI/art/ui/swap_button_up.dds")
         RedirectTexture("/esoui/art/buttons/large_rightarrow_up.dds", "MSPAINTUI/art/ui/large_rightarrow_up.dds")
@@ -79,6 +79,8 @@ local function Initialize()
             "lfg/gamepad/lfg_roleicon_healer_down.dds",
             "lfg/gamepad/lfg_roleicon_tank_down.dds",
             "icons/mapkey/mapkey_groupleader.dds",
+            "champion/champion_icon.dds",
+            "champion/champion_icon_32.dds",
         }
         for _, path in ipairs(icons) do
             RedirectTexture("/esoui/art/" .. path, "MSPAINTUI/art/ui/" .. path)
