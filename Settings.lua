@@ -86,8 +86,8 @@ local function CreateSettingsMenu()
         text = [[Credits:
 @Kyzeragon - Coding + Compilation, UI, Herald of the Tome, Assassination, Shadow
 @BirdSalad - Grave Lord, Dawn's Wrath, Dual Wield, Ardent Flame, Support, Restoring Light, Resolving Vigor, Bone Tyrant, Animal Companions, Living Death
+@Thepinja - Daedric Summoning, Storm Calling, Dark Magic, Armor, Soul Magic, Mages Guild
 @Eashi - Destruction Staff, Trample, Psijic Order
-@Thepinja - Daedric Summoning, Storm Calling, Dark Magic, Armor, Soul Magic
 @Plonkerr - Werewolf
 @Lykeion - Siphoning
 @SpookaSpooka - Vampire

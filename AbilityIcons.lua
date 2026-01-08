@@ -625,7 +625,7 @@ local ABILITY_ICONS = {
         "ability_fightersguild_005_b.dds",
         -- "ability_grimoire_fightersguild.dds",
 
-        -- Mages Guild
+        -- Mages Guild - @Thepinja
         -- "ability_mageguild_001.dds",
         -- "ability_mageguild_001_a.dds",
         -- "ability_mageguild_001_b.dds",
@@ -638,9 +638,9 @@ local ABILITY_ICONS = {
         -- "ability_mageguild_004.dds",
         -- "ability_mageguild_004_a.dds",
         -- "ability_mageguild_004_b.dds",
-        -- "ability_mageguild_005.dds",
-        -- "ability_mageguild_005_a.dds",
-        -- "ability_mageguild_005_b.dds",
+        "ability_mageguild_005.dds", -- Meteor
+        "ability_mageguild_005_a.dds",
+        "ability_mageguild_005_b.dds",
         -- "ability_grimoire_magesguild.dds",
 
         -- Psijic - @Eashi
