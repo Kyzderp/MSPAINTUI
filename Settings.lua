@@ -24,14 +24,14 @@ local function CreateSettingsMenu()
         },
         {
             type = "checkbox",
-            name = "UI textures",
-            tooltip = "Use Paint textures for some UI elements",
+            name = "UI icons",
+            tooltip = "Use Paint textures for some UI icons, typically buttons, such as the (gamepad) LFG role icons. This may also affect other addons, such as CrutchAlerts, that use the icons",
             default = true,
             getFunc = function()
-                return MSP.savedOptions.enable.ui
+                return MSP.savedOptions.enable.uiIcons
             end,
             setFunc = function(value)
-                MSP.savedOptions.enable.ui = value
+                MSP.savedOptions.enable.uiIcons = value
             end,
             width = "full",
         },
@@ -48,6 +48,20 @@ local function CreateSettingsMenu()
             tooltip = "Shows a window with all of the available icons",
             func = function()
                 MSP.PreviewIcons()
+            end,
+            width = "full",
+        })
+
+        table.insert(optionsData, 3, {
+            type = "checkbox",
+            name = "UI textures",
+            tooltip = "Use Paint textures for some UI elements, such as ability frames and progress bars",
+            default = true,
+            getFunc = function()
+                return MSP.savedOptions.enable.ui
+            end,
+            setFunc = function(value)
+                MSP.savedOptions.enable.ui = value
             end,
             width = "full",
         })
