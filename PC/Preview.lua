@@ -84,7 +84,7 @@ local function PreviewIcons()
 
     local MARGIN = 16
     local TOP_MARGIN = 64
-    local maxRows = math.floor((GuiRoot:GetHeight() * 0.9 - MARGIN * 2) / 67)
+    local maxRows = math.floor((GuiRoot:GetHeight() * 0.9 - MARGIN - TOP_MARGIN) / 67)
     local numPerRow = math.floor((GuiRoot:GetWidth() * 0.9 - MARGIN * 2) / 67)
 
     local currentPage
