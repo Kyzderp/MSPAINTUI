@@ -79,6 +79,7 @@ local function Initialize()
             "lfg/gamepad/lfg_roleicon_healer_down.dds",
             "lfg/gamepad/lfg_roleicon_tank_down.dds",
             "icons/mapkey/mapkey_groupleader.dds",
+            "icons/mapkey/mapkey_groupboss.dds",
             "champion/champion_icon.dds",
             "champion/champion_icon_32.dds",
         }
