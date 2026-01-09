@@ -7,8 +7,8 @@
 ## Title: MSPAINTUI
 ## Description: Modern Streamlined Perfectly Acceptable Intuitive Natural Tasteful UI
 ## Author: Kyzeragon, BirdSalad, Thepinja, Eashi
-## Version: 1.1.0
-## AddOnVersion: 110
+## Version: 1.2.0
+## AddOnVersion: 120
 ## APIVersion: 101048
 ## DependsOn: LibAddonMenu-2.0>=41
 ## OptionalDependsOn: AbilityIconsFramework

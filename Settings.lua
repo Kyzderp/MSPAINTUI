@@ -25,7 +25,7 @@ local function CreateSettingsMenu()
         {
             type = "checkbox",
             name = "UI icons",
-            tooltip = "Use Paint textures for some UI icons, typically buttons, such as the (gamepad) LFG role icons. This may also affect other addons, such as CrutchAlerts, that use the icons",
+            tooltip = "Use Paint textures for some UI icons, typically buttons, such as the (gamepad) LFG role icons. This may also affect other addons that use the icons, including CrutchAlerts group icons",
             default = true,
             getFunc = function()
                 return MSP.savedOptions.enable.uiIcons
