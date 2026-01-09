@@ -375,15 +375,15 @@ local ABILITY_ICONS = {
         "ability_necromancer_014.dds", -- Expunge
         "ability_necromancer_014_a.dds",
         "ability_necromancer_014_b.dds",
-        -- "ability_necromancer_015.dds",
-        -- "ability_necromancer_015_a.dds",
-        -- "ability_necromancer_015_b.dds",
-        -- "ability_necromancer_016.dds",
-        -- "ability_necromancer_016_a.dds",
-        -- "ability_necromancer_016_b.dds",
-        -- "ability_necromancer_017.dds",
-        -- "ability_necromancer_017_a.dds",
-        -- "ability_necromancer_017_b.dds",
+        "ability_necromancer_015.dds", -- Spirit
+        "ability_necromancer_015_a.dds",
+        "ability_necromancer_015_b.dds",
+        "ability_necromancer_016.dds", -- Life amid Death
+        "ability_necromancer_016_a.dds",
+        "ability_necromancer_016_b.dds",
+        "ability_necromancer_017.dds", -- Restoring Tether
+        "ability_necromancer_017_a.dds",
+        "ability_necromancer_017_b.dds",
         "ability_necromancer_018.dds", -- Reanimate
         "ability_necromancer_018_a.dds",
         "ability_necromancer_018_b.dds",
