@@ -510,15 +510,15 @@ local ABILITY_ICONS = {
         "ability_2handed_003.dds", -- Critical Charge
         "ability_2handed_003_a.dds",
         "ability_2handed_003_b.dds",
-        -- "ability_2handed_004.dds",
-        -- "ability_2handed_004_a.dds",
-        -- "ability_2handed_004_b.dds",
-        -- "ability_2handed_005.dds",
-        -- "ability_2handed_005_a.dds",
-        -- "ability_2handed_005_b.dds",
-        -- "ability_2handed_006.dds",
-        -- "ability_2handed_006_a.dds",
-        -- "ability_2handed_006_b.dds",
+        "ability_2handed_004.dds", -- Reverse Slash
+        "ability_2handed_004_a.dds",
+        "ability_2handed_004_b.dds",
+        "ability_2handed_005.dds", -- Momentum
+        "ability_2handed_005_a.dds",
+        "ability_2handed_005_b.dds",
+        "ability_2handed_006.dds", -- Berserker Strike
+        "ability_2handed_006_a.dds",
+        "ability_2handed_006_b.dds",
         -- "ability_grimoire_2handed.dds",
 
         -- Bow
