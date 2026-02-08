@@ -591,9 +591,9 @@ local ABILITY_ICONS = {
         -- "ability_restorationstaff_002.dds",
         -- "ability_restorationstaff_002a.dds",
         -- "ability_restorationstaff_002b.dds",
-        -- "ability_restorationstaff_003.dds",
-        -- "ability_restorationstaff_003_a.dds",
-        -- "ability_restorationstaff_003_b.dds",
+        "ability_restorationstaff_003.dds", -- Blessing of Protection
+        "ability_restorationstaff_003_a.dds",
+        "ability_restorationstaff_003_b.dds",
         -- "ability_restorationstaff_004.dds",
         -- "ability_restorationstaff_004a.dds",
         -- "ability_restorationstaff_004b.dds",
