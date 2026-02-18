@@ -107,11 +107,12 @@ local function CreateSettingsMenu()
 @Eashi - Destruction Staff, Trample, Psijic Order
 @Plonkerr - Werewolf
 @Lykeion - Siphoning
+@t.ea - Two Handed
+@BortSmithson - Bow
 @SpookaSpooka - Vampire
 @camrenis - Aedric Spear
 @QueuesAsTanks - Fighters Guild
 @M0R_Gaming - Winter's Embrace
-@t.ea - Two Handed
 @cfblack - Restoration
 @SuddenGhost24 - War Horn & morphs
 ]],
