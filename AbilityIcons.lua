@@ -2,7 +2,7 @@ local MSP = MSPAINTUI
 
 local ABILITY_ICONS = {
     ["Dragonknight"] = {
-        -- Dragonknight - Ardent Flame - @BirdSalad
+        -- Dragonknight - Ardent Flame (pre-U49) - @BirdSalad
         "ability_dragonknight_001.dds",
         "ability_dragonknight_001_a.dds",
         "ability_dragonknight_001_b.dds",
@@ -23,14 +23,14 @@ local ABILITY_ICONS = {
         "ability_dragonknight_006_b.dds",
         "ability_warrior_025.dds", -- Whip proc
 
-        -- Dragonknight - Draconic Power
+        -- Dragonknight - Draconic Power (pre-U49)
         -- "ability_dragonknight_007.dds",
         -- "ability_dragonknight_007_a.dds",
         -- "ability_dragonknight_007_b.dds",
         -- "ability_dragonknight_008.dds",
         -- "ability_dragonknight_008_a.dds",
         -- "ability_dragonknight_008_b.dds",
-        -- "ability_dragonknight_009.dds",
+        "ability_dragonknight_009.dds", -- Dragon Leap - @BirdSalad
         -- "ability_dragonknight_009_a.dds",
         -- "ability_dragonknight_009_b.dds",
         -- "ability_dragonknight_010.dds",
@@ -43,7 +43,7 @@ local ABILITY_ICONS = {
         -- "ability_dragonknight_012_a.dds",
         -- "ability_dragonknight_012_b.dds",
 
-        -- Dragonknight - Earthen Heart
+        -- Dragonknight - Earthen Heart (pre-U49)
         -- "ability_dragonknight_013.dds",
         -- "ability_dragonknight_013_a.dds",
         -- "ability_dragonknight_013_b.dds",
