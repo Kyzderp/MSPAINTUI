@@ -101,7 +101,7 @@ local function CreateSettingsMenu()
     table.insert(optionsData, {
         type = "description",
         text = [[Credits:
-@Kyzeragon - Coding + Compilation, UI, Herald of the Tome, Assassination, Shadow
+@Kyzeragon - Coding + Compilation, UI, Herald of the Tome, Assassination, Shadow, Soldier of Apocrypha
 @BirdSalad - Grave Lord, Dawn's Wrath, Dual Wield, Ardent Flame (pre-U49), Support, Restoring Light, Bone Tyrant, Animal Companions, Living Death, Resolving Vigor, Dragon Leap & morphs
 @Thepinja - Daedric Summoning, Storm Calling, Dark Magic, Armor, Soul Magic, Mages Guild
 @Eashi - Destruction Staff, Trample, Psijic Order

@@ -410,10 +410,10 @@ local ABILITY_ICONS = {
         "ability_arcanist_006_a.dds",
         "ability_arcanist_006_b.dds",
 
-        -- Arcanist - Soldier of Apocrypha
-        -- "ability_arcanist_007.dds",
-        -- "ability_arcanist_007_a.dds",
-        -- "ability_arcanist_007_b.dds",
+        -- Arcanist - Soldier of Apocrypha - @Kyzeragon
+        "ability_arcanist_007.dds", -- Runic Jolt
+        "ability_arcanist_007_a.dds",
+        "ability_arcanist_007_b.dds",
         -- "ability_arcanist_008.dds",
         -- "ability_arcanist_008_a.dds",
         -- "ability_arcanist_008_b.dds",
@@ -426,9 +426,9 @@ local ABILITY_ICONS = {
         -- "ability_arcanist_011.dds",
         -- "ability_arcanist_011_a.dds",
         -- "ability_arcanist_011_b.dds",
-        -- "ability_arcanist_012.dds",
-        -- "ability_arcanist_012_a.dds",
-        -- "ability_arcanist_012_b.dds",
+        "ability_arcanist_012.dds", -- Gibbering Shield
+        "ability_arcanist_012_a.dds",
+        "ability_arcanist_012_b.dds",
 
         -- Arcanist - Curative Runeforms
         -- "ability_arcanist_013.dds",
