@@ -31,8 +31,8 @@ local ABILITY_ICONS = {
         -- "ability_dragonknight_008_a.dds",
         -- "ability_dragonknight_008_b.dds",
         "ability_dragonknight_009.dds", -- Dragon Leap - @BirdSalad
-        -- "ability_dragonknight_009_a.dds",
-        -- "ability_dragonknight_009_b.dds",
+        "ability_dragonknight_009_a.dds",
+        "ability_dragonknight_009_b.dds",
         -- "ability_dragonknight_010.dds",
         -- "ability_dragonknight_010_a.dds",
         -- "ability_dragonknight_010_b.dds",
