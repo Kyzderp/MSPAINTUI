@@ -23,7 +23,7 @@ local ABILITY_ICONS = {
         "ability_dragonknight_006_b.dds",
         "ability_warrior_025.dds", -- Whip proc
 
-        -- Dragonknight - Draconic Power (pre-U49)
+        -- Dragonknight - Draconic Power (pre-U49) - @BortSmithson
         -- "ability_dragonknight_007.dds",
         -- "ability_dragonknight_007_a.dds",
         -- "ability_dragonknight_007_b.dds",
@@ -33,12 +33,12 @@ local ABILITY_ICONS = {
         "ability_dragonknight_009.dds", -- Dragon Leap - @BirdSalad
         "ability_dragonknight_009_a.dds",
         "ability_dragonknight_009_b.dds",
-        -- "ability_dragonknight_010.dds",
-        -- "ability_dragonknight_010_a.dds",
-        -- "ability_dragonknight_010_b.dds",
-        -- "ability_dragonknight_011.dds",
-        -- "ability_dragonknight_011_a.dds",
-        -- "ability_dragonknight_011_b.dds",
+        "ability_dragonknight_010.dds", -- Talons
+        "ability_dragonknight_010_a.dds",
+        "ability_dragonknight_010_b.dds",
+        "ability_dragonknight_011.dds", -- Dragon Blood
+        "ability_dragonknight_011_a.dds",
+        "ability_dragonknight_011_b.dds",
         -- "ability_dragonknight_012.dds",
         -- "ability_dragonknight_012_a.dds",
         -- "ability_dragonknight_012_b.dds",
