@@ -650,15 +650,15 @@ local ABILITY_ICONS = {
         "ability_psijic_002.dds", -- Time Stop
         "ability_psijic_002_a.dds",
         "ability_psijic_002_b.dds",
-        -- "ability_psijic_003.dds",
-        -- "ability_psijic_003_a.dds",
-        -- "ability_psijic_003_b.dds",
-        -- "ability_psijic_004.dds",
-        -- "ability_psijic_004_a.dds",
-        -- "ability_psijic_004_b.dds",
-        -- "ability_psijic_005.dds",
-        -- "ability_psijic_005_a.dds",
-        -- "ability_psijic_005_b.dds",
+        "ability_psijic_003.dds", -- Imbue Weapon
+        "ability_psijic_003_a.dds",
+        "ability_psijic_003_b.dds",
+        "ability_psijic_004.dds", -- Meditate
+        "ability_psijic_004_a.dds",
+        "ability_psijic_004_b.dds",
+        "ability_psijic_005.dds", -- Accelerate
+        "ability_psijic_005_a.dds",
+        "ability_psijic_005_b.dds",
         -- "ability_psijic_006.dds",
         -- "ability_psijic_006_a.dds",
         -- "ability_psijic_006_b.dds",
