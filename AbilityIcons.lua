@@ -27,9 +27,9 @@ local ABILITY_ICONS = {
         -- "ability_dragonknight_007.dds",
         -- "ability_dragonknight_007_a.dds",
         -- "ability_dragonknight_007_b.dds",
-        -- "ability_dragonknight_008.dds",
-        -- "ability_dragonknight_008_a.dds",
-        -- "ability_dragonknight_008_b.dds",
+        "ability_dragonknight_008.dds", -- Wing Buffet
+        "ability_dragonknight_008_a.dds",
+        "ability_dragonknight_008_b.dds",
         "ability_dragonknight_009.dds", -- Dragon Leap - @BirdSalad
         "ability_dragonknight_009_a.dds",
         "ability_dragonknight_009_b.dds",
