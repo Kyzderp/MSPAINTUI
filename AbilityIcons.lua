@@ -24,9 +24,9 @@ local ABILITY_ICONS = {
         "ability_warrior_025.dds", -- Whip proc
 
         -- Dragonknight - Draconic Power (pre-U49) - @BortSmithson
-        -- "ability_dragonknight_007.dds",
-        -- "ability_dragonknight_007_a.dds",
-        -- "ability_dragonknight_007_b.dds",
+        "ability_dragonknight_007.dds", -- Earthspike Mantle
+        "ability_dragonknight_007_a.dds",
+        "ability_dragonknight_007_b.dds",
         "ability_dragonknight_008.dds", -- Wing Buffet
         "ability_dragonknight_008_a.dds",
         "ability_dragonknight_008_b.dds",
@@ -39,9 +39,9 @@ local ABILITY_ICONS = {
         "ability_dragonknight_011.dds", -- Dragon Blood
         "ability_dragonknight_011_a.dds",
         "ability_dragonknight_011_b.dds",
-        -- "ability_dragonknight_012.dds",
-        -- "ability_dragonknight_012_a.dds",
-        -- "ability_dragonknight_012_b.dds",
+        "ability_dragonknight_012.dds", -- Core of Flame
+        "ability_dragonknight_012_a.dds",
+        "ability_dragonknight_012_b.dds",
 
         -- Dragonknight - Earthen Heart (pre-U49)
         -- "ability_dragonknight_013.dds",
