@@ -611,9 +611,9 @@ local ABILITY_ICONS = {
         "ability_fightersguild_001.dds", -- Circle
         "ability_fightersguild_001_a.dds",
         "ability_fightersguild_001_b.dds",
-        -- "ability_fightersguild_002.dds",
+        "ability_fightersguild_002.dds", -- Expert Hunter @Eashi
         -- "ability_fightersguild_002_a.dds",
-        -- "ability_fightersguild_002_b.dds",
+        "ability_fightersguild_002_b.dds", -- Camo @Eashi
         "ability_fightersguild_003.dds", -- Silver
         "ability_fightersguild_003_a.dds",
         "ability_fightersguild_003_b.dds",
@@ -659,9 +659,9 @@ local ABILITY_ICONS = {
         "ability_psijic_005.dds", -- Accelerate
         "ability_psijic_005_a.dds",
         "ability_psijic_005_b.dds",
-        -- "ability_psijic_006.dds",
-        -- "ability_psijic_006_a.dds",
-        -- "ability_psijic_006_b.dds",
+        "ability_psijic_006.dds", -- Mend Wounds
+        "ability_psijic_006_a.dds",
+        "ability_psijic_006_b.dds",
 
         -- Undaunted
         -- "ability_undaunted_001.dds",
