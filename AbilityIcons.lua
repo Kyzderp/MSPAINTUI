@@ -414,12 +414,12 @@ local ABILITY_ICONS = {
         "ability_arcanist_007.dds", -- Runic Jolt
         "ability_arcanist_007_a.dds",
         "ability_arcanist_007_b.dds",
-        -- "ability_arcanist_008.dds",
-        -- "ability_arcanist_008_a.dds",
-        -- "ability_arcanist_008_b.dds",
-        -- "ability_arcanist_009.dds",
-        -- "ability_arcanist_009_a.dds",
-        -- "ability_arcanist_009_b.dds",
+        "ability_arcanist_008.dds", -- Runespite Ward
+        "ability_arcanist_008_a.dds",
+        "ability_arcanist_008_b.dds",
+        "ability_arcanist_009.dds", -- Fatewoven Armor
+        "ability_arcanist_009_a.dds",
+        "ability_arcanist_009_b.dds",
         -- "ability_arcanist_010.dds",
         -- "ability_arcanist_010_a.dds",
         -- "ability_arcanist_010_b.dds",
