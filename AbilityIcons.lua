@@ -641,7 +641,7 @@ local ABILITY_ICONS = {
         "ability_mageguild_005.dds", -- Meteor
         "ability_mageguild_005_a.dds",
         "ability_mageguild_005_b.dds",
-        -- "ability_grimoire_magesguild.dds",
+        "ability_grimoire_magesguild.dds", -- Contingency
 
         -- Psijic - @Eashi
         "ability_psijic_001.dds", -- Undo
